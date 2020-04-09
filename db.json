@@ -1,0 +1,3534 @@
+[
+  {
+    "codice": "00",
+    "descrizione": "Procedure ed interventi non classificati altrove"
+  },
+  {
+    "codice": "000",
+    "descrizione": "Terapia ad ultrasuoni"
+  },
+  {
+    "codice": "0001",
+    "descrizione": "Terapia ad ultrasuoni dei vasi di testa e collo"
+  },
+  {
+    "codice": "0002",
+    "descrizione": "Terapia ad ultrasuoni del cuore"
+  },
+  {
+    "codice": "0003",
+    "descrizione": "Terapia ad ultrasuoni dei vasi vascolari periferici"
+  },
+  {
+    "codice": "0009",
+    "descrizione": "Altre terapie ad ultrasuoni"
+  },
+  {
+    "codice": "001",
+    "descrizione": "Terapia farmacologica"
+  },
+  {
+    "codice": "0010",
+    "descrizione": "Impianto di agenti chemioterapici"
+  },
+  {
+    "codice": "0011",
+    "descrizione": "Infusione di Drotrecogin alfa (attivato)"
+  },
+  {
+    "codice": "0012",
+    "descrizione": "Somministrazione per via inalatoria di ossido nitrico"
+  },
+  {
+    "codice": "0013",
+    "descrizione": "Iniezione o infusione di nesiritide"
+  },
+  {
+    "codice": "0014",
+    "descrizione": "Iniezione o infusione di antibiotici della classe dell’oxazolidinone"
+  },
+  {
+    "codice": "0015",
+    "descrizione": "Infusione di Interleuchina-2 ad alte dosi (IL-2)"
+  },
+  {
+    "codice": "0016",
+    "descrizione": "Trattamento pressurizzato di bypass venoso eseguito con farmaci"
+  },
+  {
+    "codice": "0017",
+    "descrizione": "Infusione di agente vasopressorio"
+  },
+  {
+    "codice": "0018",
+    "descrizione": "Infusione di terapia anticorpale immunosoppressiva durante la fase di induzione di trapianto di organo solido"
+  },
+  {
+    "codice": "002",
+    "descrizione": "Imaging intravascolare dei vasi sanguigni"
+  },
+  {
+    "codice": "0021",
+    "descrizione": "Imaging intravascolare dei vasi cerebrali extracranici"
+  },
+  {
+    "codice": "0022",
+    "descrizione": "Imaging intravascolare dei vasi intratoracici"
+  },
+  {
+    "codice": "0023",
+    "descrizione": "Imaging intravascolare dei vasi periferici"
+  },
+  {
+    "codice": "0024",
+    "descrizione": "Imaging intravascolare dei vasi coronarici"
+  },
+  {
+    "codice": "0025",
+    "descrizione": "Imaging intravascolare dei vasi renali"
+  },
+  {
+    "codice": "0028",
+    "descrizione": "Imaging intravascolare di altri vasi specificati"
+  },
+  {
+    "codice": "0029",
+    "descrizione": "Imaging intravascolare, vasi non specificati"
+  },
+  {
+    "codice": "003",
+    "descrizione": "Chirurgia computer-assistita (CAS)"
+  },
+  {
+    "codice": "0031",
+    "descrizione": "Chirurgia computer-assistita con CT/CTA"
+  },
+  {
+    "codice": "0032",
+    "descrizione": "Chirurgia computer-assistita con MR/MRA"
+  },
+  {
+    "codice": "0033",
+    "descrizione": "Chirurgia computer-assistita con fluoroscopia"
+  },
+  {
+    "codice": "0034",
+    "descrizione": "Chirurgia computer-assistita senza immagini"
+  },
+  {
+    "codice": "0035",
+    "descrizione": "Chirurgia computer-assistita con dataset multipli"
+  },
+  {
+    "codice": "0039",
+    "descrizione": "Altra chirurgia computer-assistita"
+  },
+  {
+    "codice": "004",
+    "descrizione": "Procedure aggiuntive relative al sistema vascolare"
+  },
+  {
+    "codice": "0040",
+    "descrizione": "Procedure su un singolo vaso"
+  },
+  {
+    "codice": "0041",
+    "descrizione": "Procedure su due vasi"
+  },
+  {
+    "codice": "0042",
+    "descrizione": "Procedure su tre vasi"
+  },
+  {
+    "codice": "0043",
+    "descrizione": "Procedure su quattro o più vasi"
+  },
+  {
+    "codice": "0044",
+    "descrizione": "Procedure sulla biforcazione dei vasi"
+  },
+  {
+    "codice": "0045",
+    "descrizione": "Inserzione di uno stent vascolare"
+  },
+  {
+    "codice": "0046",
+    "descrizione": "Inserzione di due stent vascolari"
+  },
+  {
+    "codice": "0047",
+    "descrizione": "Inserzione di tre stent vascolari"
+  },
+  {
+    "codice": "0048",
+    "descrizione": "Inserzione di quattro o più stent vascolari"
+  },
+  {
+    "codice": "005",
+    "descrizione": "Altre procedure cardiovascolari"
+  },
+  {
+    "codice": "0050",
+    "descrizione": "Impianto di pacemaker per la risincronizzazione cardiaca senza menzione di defibrillazione, sistema totale (CRT-P)"
+  },
+  {
+    "codice": "0051",
+    "descrizione": "Impianto di defibrillatore per la risincronizzazione cardiaca, sistema totale (CRT-D)"
+  },
+  {
+    "codice": "0052",
+    "descrizione": "Impianto o sostituzione di elettrodi transvenosi nel sistema venoso coronarico del ventricolo sinistro"
+  },
+  {
+    "codice": "0053",
+    "descrizione": "Impianto o sostituzione del solo pacemaker per la risincronizzazione cardiaca (CRT-P)"
+  },
+  {
+    "codice": "0054",
+    "descrizione": "Impianto o sostituzione del solo defibrillatore per la risincronizzazione cardiaca (CRT-D)"
+  },
+  {
+    "codice": "0055",
+    "descrizione": "Inserzione di stent medicati in vasi periferici"
+  },
+  {
+    "codice": "0056",
+    "descrizione": "Inserzione o sostituzione di elettrodi a pressione impiantabili per il monitoraggio emodinamico intracardiaco"
+  },
+  {
+    "codice": "0057",
+    "descrizione": "Impianto o sostituzione di dispositivo sottocutanei per il monitoraggio emodinamico intracardiaco"
+  },
+  {
+    "codice": "006",
+    "descrizione": "Procedure sui vasi sanguigni"
+  },
+  {
+    "codice": "0061",
+    "descrizione": "Angioplastica percutanea o aterectomia di vasi precerebrali extracranici"
+  },
+  {
+    "codice": "0062",
+    "descrizione": "Angioplastica percutanea o aterectomia dei vasi intracranici"
+  },
+  {
+    "codice": "0063",
+    "descrizione": "Inserzione percutanea di stent nell’ arteria carotidea"
+  },
+  {
+    "codice": "0064",
+    "descrizione": "Inserzione percutanea di stent in altre arterie precerebrali (extracraniche)"
+  },
+  {
+    "codice": "0065",
+    "descrizione": "Inserzione percutanea di stent vascolari intracranici"
+  },
+  {
+    "codice": "0066",
+    "descrizione": "Angioplastica percutanea coronarica transluminale (PTCA) o aterectomia coronarica"
+  },
+  {
+    "codice": "007",
+    "descrizione": "Altre procedure sull’anca"
+  },
+  {
+    "codice": "0070",
+    "descrizione": "Revisione di protesi d’anca, sia acetabolare che dei componenti femorali"
+  },
+  {
+    "codice": "0071",
+    "descrizione": "Revisione della protesi d’anca, componente acetabolare"
+  },
+  {
+    "codice": "0072",
+    "descrizione": "Revisione della protesi d’anca, componente femorale"
+  },
+  {
+    "codice": "0073",
+    "descrizione": "Revisione della protesi d’anca, inserto acetabolare e/o della sola testa del femore"
+  },
+  {
+    "codice": "0074",
+    "descrizione": "Superficie di appoggio della protesi d’anca, metallo su polietilene"
+  },
+  {
+    "codice": "0075",
+    "descrizione": "Superficie di appoggio della protesi d’anca, metallo su metallo"
+  },
+  {
+    "codice": "0076",
+    "descrizione": "Superficie di appoggio della protesi d’anca, ceramica su ceramica"
+  },
+  {
+    "codice": "0077",
+    "descrizione": "Superficie di appoggio della protesi d’anca, ceramica su polietilene"
+  },
+  {
+    "codice": "008",
+    "descrizione": "Altre procedure sul ginocchio o sull’anca"
+  },
+  {
+    "codice": "0080",
+    "descrizione": "Revisione della protesi di ginocchio, totale (tutti i componenti)"
+  },
+  {
+    "codice": "0081",
+    "descrizione": "Revisione della protesi di ginocchio, componente tibiale"
+  },
+  {
+    "codice": "0082",
+    "descrizione": "Revisione della protesi di ginocchio, componente femorale"
+  },
+  {
+    "codice": "0083",
+    "descrizione": "Revisione della protesi di ginocchio, componente patellare"
+  },
+  {
+    "codice": "0084",
+    "descrizione": "Revisione della protesi di ginocchio, inserto tibiale"
+  },
+  {
+    "codice": "0085",
+    "descrizione": "Rivestimento totale dell’anca, acetabolo e testa del femore"
+  },
+  {
+    "codice": "0086",
+    "descrizione": "Rivestimento dell’anca, parziale, testa del femore"
+  },
+  {
+    "codice": "0087",
+    "descrizione": "Rivestimento dell’anca, parziale, acetabolo"
+  },
+  {
+    "codice": "009",
+    "descrizione": "Altre procedure ed interventi"
+  },
+  {
+    "codice": "0091",
+    "descrizione": "Trapianto da donatore parente, vivente"
+  },
+  {
+    "codice": "0092",
+    "descrizione": "Trapianto da donatore non-parente, vivente"
+  },
+  {
+    "codice": "0093",
+    "descrizione": "Trapianto da cadavere"
+  },
+  {
+    "codice": "01",
+    "descrizione": "Incisioni ed asportazioni di patologia del cranio, del cervello e delle meningi cerebrali"
+  },
+  {
+    "codice": "010",
+    "descrizione": "Puntura transcranica (trapanazione del cranio)"
+  },
+  {
+    "codice": "0101",
+    "descrizione": "Puntura delle cisterne"
+  },
+  {
+    "codice": "0102",
+    "descrizione": "Puntura ventricolare mediante catetere già impiantato"
+  },
+  {
+    "codice": "0109",
+    "descrizione": "Altra puntura del cranio"
+  },
+  {
+    "codice": "011",
+    "descrizione": "Procedure diagnostiche sul cranio, sul cervello e sulle meningi cerebrali"
+  },
+  {
+    "codice": "0111",
+    "descrizione": "Biopsia [percutanea] [agobiopsia] delle meningi cerebrali"
+  },
+  {
+    "codice": "0112",
+    "descrizione": "Biopsia a cielo aperto delle meningi cerebrali"
+  },
+  {
+    "codice": "0113",
+    "descrizione": "Biopsia [percutanea] [agobiopsia] di lesione cerebrale"
+  },
+  {
+    "codice": "0114",
+    "descrizione": "Biopsia a cielo aperto di lesione cerebrale"
+  },
+  {
+    "codice": "0115",
+    "descrizione": "Biopsia delle ossa craniche"
+  },
+  {
+    "codice": "0118",
+    "descrizione": "Altre procedure diagnostiche sul cervello e sulle meningi cerebrali"
+  },
+  {
+    "codice": "0119",
+    "descrizione": "Altre procedure diagnostiche sul cranio"
+  },
+  {
+    "codice": "012",
+    "descrizione": "Craniotomia e craniectomia"
+  },
+  {
+    "codice": "0121",
+    "descrizione": "Incisione e drenaggio dei seni cranici"
+  },
+  {
+    "codice": "0122",
+    "descrizione": "Rimozione di elettrodo/i di neurostimolatore intracranico"
+  },
+  {
+    "codice": "0123",
+    "descrizione": "Riapertura di pregressa craniotomia"
+  },
+  {
+    "codice": "0124",
+    "descrizione": "Altra craniotomia"
+  },
+  {
+    "codice": "0125",
+    "descrizione": "Altra craniectomia"
+  },
+  {
+    "codice": "0126",
+    "descrizione": "Inserzione di catetere/i nella cavità o tessuto del cranio"
+  },
+  {
+    "codice": "0127",
+    "descrizione": "Rimozione di catetere/i dalla cavità o tessuto del cranio"
+  },
+  {
+    "codice": "0128",
+    "descrizione": "Posizionamento di catetere/i intracerebrale attraverso foro circolare"
+  },
+  {
+    "codice": "013",
+    "descrizione": "Incisione cerebrale e delle meningi"
+  },
+  {
+    "codice": "0131",
+    "descrizione": "Incisione delle meningi cerebrali"
+  },
+  {
+    "codice": "0132",
+    "descrizione": "Lobotomia e trattotomia"
+  },
+  {
+    "codice": "0139",
+    "descrizione": "Altre incisioni cerebrali"
+  },
+  {
+    "codice": "014",
+    "descrizione": "Interventi sul talamo e sul globo pallido"
+  },
+  {
+    "codice": "0141",
+    "descrizione": "Interventi sul talamo"
+  },
+  {
+    "codice": "0142",
+    "descrizione": "Interventi sul globo pallido"
+  },
+  {
+    "codice": "015",
+    "descrizione": "Altre asportazioni o altri interventi di demolizione sul cervello e sulle meningi cerebrali"
+  },
+  {
+    "codice": "0151",
+    "descrizione": "Asportazione di lesione o di tessuto delle meningi cerebrali"
+  },
+  {
+    "codice": "0152",
+    "descrizione": "Emisferectomia"
+  },
+  {
+    "codice": "0153",
+    "descrizione": "Lobectomia cerebrale (per lesione organica)"
+  },
+  {
+    "codice": "0159",
+    "descrizione": "Altra asportazione o demolizione di lesione o tessuto cerebrale"
+  },
+  {
+    "codice": "016",
+    "descrizione": "Asportazione di lesioni del cranio"
+  },
+  {
+    "codice": "02",
+    "descrizione": "Altri interventi sul cranio, sul cervello e sulle meningi cerebrali"
+  },
+  {
+    "codice": "020",
+    "descrizione": "Cranioplastica"
+  },
+  {
+    "codice": "0201",
+    "descrizione": "Apertura di suture del cranio"
+  },
+  {
+    "codice": "0202",
+    "descrizione": "Riposizionamento di frammenti di frattura affossata del cranio"
+  },
+  {
+    "codice": "0203",
+    "descrizione": "Formazione di lembi cranici"
+  },
+  {
+    "codice": "0204",
+    "descrizione": "Innesto osseo sul cranio"
+  },
+  {
+    "codice": "0205",
+    "descrizione": "Inserzione di placca cranica Sostituzione di placca del cranio"
+  },
+  {
+    "codice": "0206",
+    "descrizione": "Altri tipi di osteoplastica del cranio"
+  },
+  {
+    "codice": "0207",
+    "descrizione": "Rimozione di placca del cranio"
+  },
+  {
+    "codice": "021",
+    "descrizione": "Trattamento di lesione delle meningi cerebrali"
+  },
+  {
+    "codice": "0211",
+    "descrizione": "Sutura semplice della dura madre"
+  },
+  {
+    "codice": "0212",
+    "descrizione": "Altra riparazione delle meningi cerebrali"
+  },
+  {
+    "codice": "0213",
+    "descrizione": "Legatura dei vasi delle meningi: del seno longitudinale dell’arteria meningea mediale"
+  },
+  {
+    "codice": "0214",
+    "descrizione": "Plessectomia coroidea"
+  },
+  {
+    "codice": "022",
+    "descrizione": "Ventricolostomia"
+  },
+  {
+    "codice": "023",
+    "descrizione": "Anastomosi ventricolare extracranico"
+  },
+  {
+    "codice": "0231",
+    "descrizione": "Anastomosi fra ventricolo e strutture della testa e del collo"
+  },
+  {
+    "codice": "0232",
+    "descrizione": "Anastomosi fra ventricolo e sistema circolatorio"
+  },
+  {
+    "codice": "0233",
+    "descrizione": "Anastomosi fra ventricolo e cavità toracica"
+  },
+  {
+    "codice": "0234",
+    "descrizione": "Anastomosi fra ventricolo, cavità addominale e suoi organi"
+  },
+  {
+    "codice": "0235",
+    "descrizione": "Anastomosi fra ventricolo ed apparato urinario"
+  },
+  {
+    "codice": "0239",
+    "descrizione": "Altri interventi per il drenaggio ventricolare"
+  },
+  {
+    "codice": "024",
+    "descrizione": "Revisione, rimozione e irrigazione di anastomosi ventricolare"
+  },
+  {
+    "codice": "0241",
+    "descrizione": "Irrigazione ed esplorazione di anastomosi ventricolare"
+  },
+  {
+    "codice": "0242",
+    "descrizione": "Sostituzione di anastomosi ventricolare"
+  },
+  {
+    "codice": "0243",
+    "descrizione": "Rimozione di anastomosi ventricolare"
+  },
+  {
+    "codice": "029",
+    "descrizione": "Altri interventi su cranio, cervello e meningi cerebrali"
+  },
+  {
+    "codice": "0291",
+    "descrizione": "Separazione di aderenze corticali"
+  },
+  {
+    "codice": "0292",
+    "descrizione": "Interventi riparativi del cervello"
+  },
+  {
+    "codice": "0293",
+    "descrizione": "Impianto o sostituzione di elettrodo/i del neurostimolatore intracranico"
+  },
+  {
+    "codice": "0294",
+    "descrizione": "Applicazione o sostituzione di trazione transcranica o dispositivo di halo"
+  },
+  {
+    "codice": "0295",
+    "descrizione": "Rimozione di trazione transcranica o dispositivo di halo"
+  },
+  {
+    "codice": "0296",
+    "descrizione": "Applicazione di elettrodi sfenoidali"
+  },
+  {
+    "codice": "0299",
+    "descrizione": "Altri interventi sul cranio, sul cervello e sulle meningi"
+  },
+  {
+    "codice": "03",
+    "descrizione": "Interventi sul midollo spinale e sulle strutture del canale vertebrale"
+  },
+  {
+    "codice": "030",
+    "descrizione": "Esplorazione e decompressione di strutture del canale vertebrale"
+  },
+  {
+    "codice": "0301",
+    "descrizione": "Rimozione di corpo estraneo dal canale vertebrale"
+  },
+  {
+    "codice": "0302",
+    "descrizione": "Riapertura di pregressa laminectomia"
+  },
+  {
+    "codice": "0309",
+    "descrizione": "Altra esplorazione e decompressione del canale vertebrale"
+  },
+  {
+    "codice": "031",
+    "descrizione": "Sezione delle radici dei nervi intraspinali"
+  },
+  {
+    "codice": "032",
+    "descrizione": "Cordotomia"
+  },
+  {
+    "codice": "0321",
+    "descrizione": "Cordotomia percutanea"
+  },
+  {
+    "codice": "0329",
+    "descrizione": "Altra cordotomia"
+  },
+  {
+    "codice": "033",
+    "descrizione": "Procedure diagnostiche sul midollo spinale e sulle strutture del canale vertebrale"
+  },
+  {
+    "codice": "0331",
+    "descrizione": "Rachicentesi"
+  },
+  {
+    "codice": "0332",
+    "descrizione": "Biopsia di lesione spinale"
+  },
+  {
+    "codice": "0339",
+    "descrizione": "Altre procedure diagnostiche sul midollo spinale e sulle strutture del canale vertebrale"
+  },
+  {
+    "codice": "034",
+    "descrizione": "Asportazione o demolizione di lesione del midollo o delle meningi spinali"
+  },
+  {
+    "codice": "035",
+    "descrizione": "Interventi di plastica sulle strutture del midollo"
+  },
+  {
+    "codice": "0351",
+    "descrizione": "Riparazione di meningocele spinale"
+  },
+  {
+    "codice": "0352",
+    "descrizione": "Riparazione di mielomeningocele spinale"
+  },
+  {
+    "codice": "0353",
+    "descrizione": "Riparazione di fratture vertebrali"
+  },
+  {
+    "codice": "0359",
+    "descrizione": "Altri interventi di riparazione e di plastica sul midollo spinale"
+  },
+  {
+    "codice": "036",
+    "descrizione": "Separazione di aderenze del midollo spinale e delle radici dei nervi"
+  },
+  {
+    "codice": "037",
+    "descrizione": "Anastomosi spinale"
+  },
+  {
+    "codice": "0371",
+    "descrizione": "Anastomosi spinale subaracnoideoperitoneale"
+  },
+  {
+    "codice": "0372",
+    "descrizione": "Anastomosi spinale subaracnoideo ureterale"
+  },
+  {
+    "codice": "0379",
+    "descrizione": "Altro anastomosi spinale"
+  },
+  {
+    "codice": "038",
+    "descrizione": "Iniezione di farmaci citotossici nel canale vertebrale"
+  },
+  {
+    "codice": "039",
+    "descrizione": "Altri interventi sul midollo e sulle strutture del canale vertebrale"
+  },
+  {
+    "codice": "0390",
+    "descrizione": "Inserzione di catetere nel canale vertebrale per infusione di sostanze terapeutiche o palliative"
+  },
+  {
+    "codice": "0391",
+    "descrizione": "Iniezione di anestetico nel canale vertebrale per analgesia"
+  },
+  {
+    "codice": "0392",
+    "descrizione": "Iniezione di altri farmaci nel canale vertebrale"
+  },
+  {
+    "codice": "0393",
+    "descrizione": "Impianto o sostituzione di elettrodo/i di neurostimolatore spinale"
+  },
+  {
+    "codice": "0394",
+    "descrizione": "Rimozione di elettrodo/i del neurostimolatore spinale"
+  },
+  {
+    "codice": "0395",
+    "descrizione": "Spinal blood patch"
+  },
+  {
+    "codice": "0396",
+    "descrizione": "Denervazione percutanea della faccetta articolare"
+  },
+  {
+    "codice": "0397",
+    "descrizione": "Revisione di anastomosi spinale"
+  },
+  {
+    "codice": "0398",
+    "descrizione": "Rimozione di anastomosi spinale"
+  },
+  {
+    "codice": "0399",
+    "descrizione": "Altri interventi sul midollo spinale e sulle strutture del canale vertebrale"
+  },
+  {
+    "codice": "04",
+    "descrizione": "Interventi sui nervi cranici e periferici"
+  },
+  {
+    "codice": "040",
+    "descrizione": "Incisione, sezione ed asportazione dei nervi cranici e periferici"
+  },
+  {
+    "codice": "0401",
+    "descrizione": "Asportazione di neuroma acustico"
+  },
+  {
+    "codice": "0402",
+    "descrizione": "Sezione del nervo trigemino"
+  },
+  {
+    "codice": "0403",
+    "descrizione": "Sezione o schiacciamento di altri nervi cranici e periferici"
+  },
+  {
+    "codice": "0404",
+    "descrizione": "Altra incisione dei nervi cranici e periferici"
+  },
+  {
+    "codice": "0405",
+    "descrizione": "Gangliectomia del ganglio di Gasser"
+  },
+  {
+    "codice": "0406",
+    "descrizione": "Altre gangliectomie di nervi cranici o periferici"
+  },
+  {
+    "codice": "0407",
+    "descrizione": "Altra resezione o asportazione dei nervi cranici e periferici"
+  },
+  {
+    "codice": "041",
+    "descrizione": "Procedure diagnostiche sul sistema nervoso periferico"
+  },
+  {
+    "codice": "0411",
+    "descrizione": "Biopsia [percutanea] [agobiopsia] dei nervi cranici o periferici o dei gangli"
+  },
+  {
+    "codice": "0412",
+    "descrizione": "Biopsia a cielo aperto dei nervi cranici o periferici o dei gangli"
+  },
+  {
+    "codice": "0419",
+    "descrizione": "Altre procedure diagnostiche sui nervi cranici o periferici o sui gangli"
+  },
+  {
+    "codice": "042",
+    "descrizione": "Demolizione di nervi cranici e periferici"
+  },
+  {
+    "codice": "043",
+    "descrizione": "Suture dei nervi cranici e periferici"
+  },
+  {
+    "codice": "044",
+    "descrizione": "Separazione di aderenze e decompressione dei nervi cranici e periferici"
+  },
+  {
+    "codice": "0441",
+    "descrizione": "Decompressione delle radici del trigemino"
+  },
+  {
+    "codice": "0442",
+    "descrizione": "Altra decompressione di nervi cranici"
+  },
+  {
+    "codice": "0443",
+    "descrizione": "Liberazione del tunnel carpale"
+  },
+  {
+    "codice": "0444",
+    "descrizione": "Liberazione del tunnel tarsale"
+  },
+  {
+    "codice": "0449",
+    "descrizione": "Altre decompressioni dei nervi periferici e dei gangli, o separazione di aderenze"
+  },
+  {
+    "codice": "045",
+    "descrizione": "Innesto di nervi cranici o periferici"
+  },
+  {
+    "codice": "046",
+    "descrizione": "Trasposizione di nervi cranici e periferici"
+  },
+  {
+    "codice": "047",
+    "descrizione": "Altra neuroplastica cranica o periferica"
+  },
+  {
+    "codice": "0471",
+    "descrizione": "Anastomosi ipoglosso-faciale"
+  },
+  {
+    "codice": "0472",
+    "descrizione": "Anastomosi accessorio-faciale"
+  },
+  {
+    "codice": "0473",
+    "descrizione": "Anastomosi accessorio-ipoglosso"
+  },
+  {
+    "codice": "0474",
+    "descrizione": "Altre anastomosi di nervi cranici e periferici"
+  },
+  {
+    "codice": "0475",
+    "descrizione": "Revisione di pregressa ricostruzione di nervi cranici e periferici"
+  },
+  {
+    "codice": "0476",
+    "descrizione": "Riparazione di lesioni traumatiche di vecchia data di nervi cranici e periferici"
+  },
+  {
+    "codice": "0479",
+    "descrizione": "Altra neuroplastica"
+  },
+  {
+    "codice": "048",
+    "descrizione": "Iniezione nei nervi periferici"
+  },
+  {
+    "codice": "0480",
+    "descrizione": "Iniezione in nervo periferico, SAI"
+  },
+  {
+    "codice": "0481",
+    "descrizione": "Iniezione di anestetico in nervo periferico per analgesia"
+  },
+  {
+    "codice": "0489",
+    "descrizione": "Iniezione di altre sostanze, esclusi i neurolitici"
+  },
+  {
+    "codice": "049",
+    "descrizione": "Altri interventi sui nervi cranici e periferici"
+  },
+  {
+    "codice": "0491",
+    "descrizione": "Stiramento di nervo (neurectasia)"
+  },
+  {
+    "codice": "0492",
+    "descrizione": "Impianto o sostituzione di eletrtrodo/i del neurostimolatore dei nervi periferici"
+  },
+  {
+    "codice": "0493",
+    "descrizione": "Rimozione di elettrodo/i del neurostimolatore dei nervi periferici"
+  },
+  {
+    "codice": "0499",
+    "descrizione": "Altri interventi sui nervi cranici e periferici"
+  },
+  {
+    "codice": "05",
+    "descrizione": "Interventi sui nervi o sui gangli simpatici"
+  },
+  {
+    "codice": "050",
+    "descrizione": "Sezione di nervo o ganglio simpatico"
+  },
+  {
+    "codice": "051",
+    "descrizione": "Procedure diagnostiche sui nervi o sui gangli simpatici"
+  },
+  {
+    "codice": "0511",
+    "descrizione": "Biopsia di nervi o di gangli simpatici"
+  },
+  {
+    "codice": "0519",
+    "descrizione": "Altre procedure diagnostiche sui nervi o sui gangli simpatici"
+  },
+  {
+    "codice": "052",
+    "descrizione": "Simpatectomia"
+  },
+  {
+    "codice": "0521",
+    "descrizione": "Gangliectomia sfenopalatina"
+  },
+  {
+    "codice": "0522",
+    "descrizione": "Simpatectomia cervicale"
+  },
+  {
+    "codice": "0523",
+    "descrizione": "Simpatectomia lombare"
+  },
+  {
+    "codice": "0524",
+    "descrizione": "Simpatectomia presacrale"
+  },
+  {
+    "codice": "0525",
+    "descrizione": "Simpatectomia periarteriosa"
+  },
+  {
+    "codice": "0529",
+    "descrizione": "Altre simpatectomie e gangliectomie"
+  },
+  {
+    "codice": "053",
+    "descrizione": "Iniezione in nervi o gangli simpatici"
+  },
+  {
+    "codice": "0531",
+    "descrizione": "Iniezione di anestetico nei nervi simpatici per analgesia"
+  },
+  {
+    "codice": "0532",
+    "descrizione": "Iniezione di agenti neurolitici nei nervi simpatici"
+  },
+  {
+    "codice": "0539",
+    "descrizione": "Altra iniezione in nervi o gangli simpatici"
+  },
+  {
+    "codice": "058",
+    "descrizione": "Altri interventi su nervi o su gangli simpatici"
+  },
+  {
+    "codice": "0581",
+    "descrizione": "Riparazione di nervi o gangli simpatici"
+  },
+  {
+    "codice": "0589",
+    "descrizione": "Altri interventi su nervi simpatici"
+  },
+  {
+    "codice": "059",
+    "descrizione": "Altri interventi sul sistema nervoso"
+  },
+  {
+    "codice": "06",
+    "descrizione": "Interventi sulla tiroide e sulle paratiroidi"
+  },
+  {
+    "codice": "060",
+    "descrizione": "Incisione della regione tiroidea"
+  },
+  {
+    "codice": "0601",
+    "descrizione": "Aspirazione nella regione tiroidea"
+  },
+  {
+    "codice": "0602",
+    "descrizione": "Riapertura di ferita della regione tiroidea"
+  },
+  {
+    "codice": "0609",
+    "descrizione": "Altra incisione della regione tiroidea"
+  },
+  {
+    "codice": "061",
+    "descrizione": "Procedure diagnostiche sulla tiroide e sulle paratiroidi"
+  },
+  {
+    "codice": "0611",
+    "descrizione": "Biopsia [percutanea] [agobiopsia] della tiroide"
+  },
+  {
+    "codice": "0612",
+    "descrizione": "Biopsia a cielo aperto della tiroide"
+  },
+  {
+    "codice": "0613",
+    "descrizione": "Biopsia delle paratiroidi"
+  },
+  {
+    "codice": "0619",
+    "descrizione": "Altra procedura diagnostica sulla tiroide o sulle paratiroidi"
+  },
+  {
+    "codice": "062",
+    "descrizione": "Lobectomia monolaterale della tiroide"
+  },
+  {
+    "codice": "063",
+    "descrizione": "Altra tiroidectomia parziale"
+  },
+  {
+    "codice": "0631",
+    "descrizione": "Asportazione di lesione della tiroide"
+  },
+  {
+    "codice": "0639",
+    "descrizione": "Altra tiroidectomia parziale"
+  },
+  {
+    "codice": "064",
+    "descrizione": "Tiroidectomia completa"
+  },
+  {
+    "codice": "065",
+    "descrizione": "Tiroidectomia retrosternale"
+  },
+  {
+    "codice": "0650",
+    "descrizione": "Tiroidectomia retrosternale, SAI"
+  },
+  {
+    "codice": "0651",
+    "descrizione": "Tiroidectomia retrosternale parziale"
+  },
+  {
+    "codice": "0652",
+    "descrizione": "Tiroidectomia retrosternale completa"
+  },
+  {
+    "codice": "066",
+    "descrizione": "Asportazione di tiroide linguale"
+  },
+  {
+    "codice": "067",
+    "descrizione": "Asportazione del tratto o dotto tireoglosso"
+  },
+  {
+    "codice": "068",
+    "descrizione": "Paratiroidectomia"
+  },
+  {
+    "codice": "0681",
+    "descrizione": "Paratiroidectomia completa"
+  },
+  {
+    "codice": "0689",
+    "descrizione": "Altra paratiroidectomia"
+  },
+  {
+    "codice": "069",
+    "descrizione": "Altri interventi sulle regioni tiroidea e paratiroidea"
+  },
+  {
+    "codice": "0691",
+    "descrizione": "Sezione dell’istmo tiroideo"
+  },
+  {
+    "codice": "0692",
+    "descrizione": "Legatura dei vasi tiroidei"
+  },
+  {
+    "codice": "0693",
+    "descrizione": "Sutura della tiroide"
+  },
+  {
+    "codice": "0694",
+    "descrizione": "Reimpianto di tessuto tiroideo"
+  },
+  {
+    "codice": "0695",
+    "descrizione": "Reimpianto di tessuto paratiroideo"
+  },
+  {
+    "codice": "0698",
+    "descrizione": "Altri interventi sulla tiroide"
+  },
+  {
+    "codice": "0699",
+    "descrizione": "Altri interventi sulle paratiroidi"
+  },
+  {
+    "codice": "07",
+    "descrizione": "Interventi su altre ghiandole endocrine"
+  },
+  {
+    "codice": "070",
+    "descrizione": "Esplorazione della regione surrenalica"
+  },
+  {
+    "codice": "0700",
+    "descrizione": "Esplorazione della regione surrenalica non altrimenti specificata"
+  },
+  {
+    "codice": "0701",
+    "descrizione": "Esplorazione unilaterale della regione surrenalica"
+  },
+  {
+    "codice": "0702",
+    "descrizione": "Esplorazione bilaterale della regione surrenalica"
+  },
+  {
+    "codice": "071",
+    "descrizione": "Procedure diagnostiche sulle ghiandole surrenali, ipofisi, ghiandola pineale e timo"
+  },
+  {
+    "codice": "0711",
+    "descrizione": "Biopsia [percutanea] [agobiopsia] delle ghiandole surrenali"
+  },
+  {
+    "codice": "0712",
+    "descrizione": "Biopsia a cielo aperto delle ghiandole surrenali"
+  },
+  {
+    "codice": "0713",
+    "descrizione": "Biopsia dell’ipofisi per via trans-frontale"
+  },
+  {
+    "codice": "0714",
+    "descrizione": "Biopsia dell’ipofisi per via trans-sfenoidale"
+  },
+  {
+    "codice": "0715",
+    "descrizione": "Biopsia dell’ipofisi per via non specificata"
+  },
+  {
+    "codice": "0716",
+    "descrizione": "Biopsia del timo"
+  },
+  {
+    "codice": "0717",
+    "descrizione": "Biopsia della ghiandola pineale"
+  },
+  {
+    "codice": "0719",
+    "descrizione": "Altre procedure diagnostiche sulle ghiandole surrenali, ipofisi, ghiandola pineale e timo"
+  },
+  {
+    "codice": "072",
+    "descrizione": "Surrenectomia parziale"
+  },
+  {
+    "codice": "0721",
+    "descrizione": "Asportazione di lesione delle ghiandole surrenali"
+  },
+  {
+    "codice": "0722",
+    "descrizione": "Surrenectomia monolaterale"
+  },
+  {
+    "codice": "0729",
+    "descrizione": "Altra surrenectomia parziale"
+  },
+  {
+    "codice": "073",
+    "descrizione": "Surrenectomia bilaterale"
+  },
+  {
+    "codice": "074",
+    "descrizione": "Altri interventi su nervi, vasi e ghiandole surrenali"
+  },
+  {
+    "codice": "0741",
+    "descrizione": "Incisione delle ghiandole surrenali"
+  },
+  {
+    "codice": "0742",
+    "descrizione": "Sezione di nervi afferenti alle ghiandole surrenaliche"
+  },
+  {
+    "codice": "0743",
+    "descrizione": "Legatura di vasi delle ghiandole surrenali"
+  },
+  {
+    "codice": "0744",
+    "descrizione": "Riparazione delle ghiandole surrenali"
+  },
+  {
+    "codice": "0745",
+    "descrizione": "Reimpianto delle ghiandole surrenali"
+  },
+  {
+    "codice": "0749",
+    "descrizione": "Altri interventi su nervi, vasi e ghiandole surrenali"
+  },
+  {
+    "codice": "075",
+    "descrizione": "Interventi sulla ghiandola pineale"
+  },
+  {
+    "codice": "0751",
+    "descrizione": "Esplorazione della regione pineale"
+  },
+  {
+    "codice": "0752",
+    "descrizione": "Incisione della ghiandola pineale"
+  },
+  {
+    "codice": "0753",
+    "descrizione": "Asportazione parziale della ghiandola pineale"
+  },
+  {
+    "codice": "0754",
+    "descrizione": "Asportazione della ghiandola pineale"
+  },
+  {
+    "codice": "0759",
+    "descrizione": "Altri interventi sulla ghiandola pineale"
+  },
+  {
+    "codice": "076",
+    "descrizione": "Ipofisectomia"
+  },
+  {
+    "codice": "0761",
+    "descrizione": "Asportazione parziale dell’ipofisi, per via trans-frontale"
+  },
+  {
+    "codice": "0762",
+    "descrizione": "Asportazione parziale dell’ipofisi, per via trans-sfenoidale"
+  },
+  {
+    "codice": "0763",
+    "descrizione": "Asportazione parziale dell’ipofisi, per via non specificata"
+  },
+  {
+    "codice": "0764",
+    "descrizione": "Asportazione totale dell’ipofisi per via trans-frontale"
+  },
+  {
+    "codice": "0765",
+    "descrizione": "Asportazione totale dell’ipofisi per via trans-sfenoidale"
+  },
+  {
+    "codice": "0768",
+    "descrizione": "Asportazione totale dell’ipofisi, per altra via specificata"
+  },
+  {
+    "codice": "0769",
+    "descrizione": "Asportazione totale dell’ipofisi per via non specificata"
+  },
+  {
+    "codice": "077",
+    "descrizione": "Altri interventi sull’ipofisi"
+  },
+  {
+    "codice": "0771",
+    "descrizione": "Esplorazione della fossa dell’ipofisi"
+  },
+  {
+    "codice": "0772",
+    "descrizione": "Incisione dell’ipofisi"
+  },
+  {
+    "codice": "0779",
+    "descrizione": "Altri interventi sull’ipofisi"
+  },
+  {
+    "codice": "078",
+    "descrizione": "Timectomia"
+  },
+  {
+    "codice": "0780",
+    "descrizione": "Timectomia, SAI"
+  },
+  {
+    "codice": "0781",
+    "descrizione": "Asportazione parziale del timo"
+  },
+  {
+    "codice": "0782",
+    "descrizione": "Asportazione totale del timo"
+  },
+  {
+    "codice": "079",
+    "descrizione": "Altri interventi sul timo"
+  },
+  {
+    "codice": "0791",
+    "descrizione": "Esplorazione dell’area timica"
+  },
+  {
+    "codice": "0792",
+    "descrizione": "Incisione del timo"
+  },
+  {
+    "codice": "0793",
+    "descrizione": "Riparazione del timo"
+  },
+  {
+    "codice": "0794",
+    "descrizione": "Trapianto del timo"
+  },
+  {
+    "codice": "0799",
+    "descrizione": "Altri interventi sul timo"
+  },
+  {
+    "codice": "08",
+    "descrizione": "Interventi sulla palpebra"
+  },
+  {
+    "codice": "080",
+    "descrizione": "Incisione della palpebra"
+  },
+  {
+    "codice": "0801",
+    "descrizione": "Incisione del margine palpebrale"
+  },
+  {
+    "codice": "0802",
+    "descrizione": "Apertura di blefarorrafia"
+  },
+  {
+    "codice": "0809",
+    "descrizione": "Altra incisione della palpebra"
+  },
+  {
+    "codice": "081",
+    "descrizione": "Procedure diagnostiche sulla palpebra"
+  },
+  {
+    "codice": "0811",
+    "descrizione": "Biopsia della palpebra"
+  },
+  {
+    "codice": "0819",
+    "descrizione": "Altre procedure diagnostiche sulla palpebra"
+  },
+  {
+    "codice": "082",
+    "descrizione": "Escissione o demolizione di lesione o tessuto della palpebra"
+  },
+  {
+    "codice": "0820",
+    "descrizione": "Rimozione di lesione della palpebra, SAI"
+  },
+  {
+    "codice": "0821",
+    "descrizione": "Asportazione di calazio"
+  },
+  {
+    "codice": "0822",
+    "descrizione": "Asportazione di altra piccola lesione della palpebra"
+  },
+  {
+    "codice": "0823",
+    "descrizione": "Asportazione di lesione estesa della palpebra non a tutto spessore"
+  },
+  {
+    "codice": "0824",
+    "descrizione": "Asportazione di lesione estesa della palpebra, a tutto spessore"
+  },
+  {
+    "codice": "0825",
+    "descrizione": "Demolizione di lesione palpebrale"
+  },
+  {
+    "codice": "083",
+    "descrizione": "Correzione di blefaroptosi e retrazione palpebrale"
+  },
+  {
+    "codice": "0831",
+    "descrizione": "Correzione di blefaroptosi con intervento sui muscoli frontali, con sutura"
+  },
+  {
+    "codice": "0832",
+    "descrizione": "Correzione di blefaroptosi con anastomosi del muscolo frontale mediante fascia lata"
+  },
+  {
+    "codice": "0833",
+    "descrizione": "Correzione di blefaroptosi con resezione o avanzamento del muscolo elevatore o sua aponeurosi"
+  },
+  {
+    "codice": "0834",
+    "descrizione": "Correzione di blefaroptosi con altre tecniche che utilizzano il muscolo elevatore"
+  },
+  {
+    "codice": "0835",
+    "descrizione": "Correzione di blefaroptosi con tecnica tarsale"
+  },
+  {
+    "codice": "0836",
+    "descrizione": "Correzione di blefaroptosi con altre tecniche"
+  },
+  {
+    "codice": "0837",
+    "descrizione": "Riduzione di sovracorrezione di blefaroptosi"
+  },
+  {
+    "codice": "0838",
+    "descrizione": "Correzione di retrazione della palpebra"
+  },
+  {
+    "codice": "084",
+    "descrizione": "Riparazione di entropion o ectropion"
+  },
+  {
+    "codice": "0841",
+    "descrizione": "Riparazione di entropion o ectropion con termocoagulazione"
+  },
+  {
+    "codice": "0842",
+    "descrizione": "Riparazione di entropion o ectropion con tecnica di sutura"
+  },
+  {
+    "codice": "0843",
+    "descrizione": "Riparazione di entropion o ectropion con resezione cuneiforme"
+  },
+  {
+    "codice": "0844",
+    "descrizione": "Riparazione di entropion o ectropion con ricostruzione della palpebra"
+  },
+  {
+    "codice": "0849",
+    "descrizione": "Altra riparazione di entropion o ectropion"
+  },
+  {
+    "codice": "085",
+    "descrizione": "Altra correzione della posizione della palpebra"
+  },
+  {
+    "codice": "0851",
+    "descrizione": "Cantotomia"
+  },
+  {
+    "codice": "0852",
+    "descrizione": "Blefarorrafia"
+  },
+  {
+    "codice": "0859",
+    "descrizione": "Altra correzione della posizione della palpebra"
+  },
+  {
+    "codice": "086",
+    "descrizione": "Ricostruzione della palpebra con lembo o innesto"
+  },
+  {
+    "codice": "0861",
+    "descrizione": "Ricostruzione della palpebra con lembo o innesto cutaneo"
+  },
+  {
+    "codice": "0862",
+    "descrizione": "Ricostruzione della palpebra con innesto o lembo di mucosa"
+  },
+  {
+    "codice": "0863",
+    "descrizione": "Ricostruzione della palpebra con innesto del follicolo pilifero"
+  },
+  {
+    "codice": "0864",
+    "descrizione": "Ricostruzione della palpebra con lembo tarsocongiuntivale"
+  },
+  {
+    "codice": "0869",
+    "descrizione": "Altra ricostruzione della palpebra con lembo o innesto (Innesto composto)"
+  },
+  {
+    "codice": "087",
+    "descrizione": "Altra ricostruzione della palpebra"
+  },
+  {
+    "codice": "0870",
+    "descrizione": "Ricostruzione della palpebra, SAI"
+  },
+  {
+    "codice": "0871",
+    "descrizione": "Ricostruzione della palpebra interessante il margine palpebrale, non a tutto spessore"
+  },
+  {
+    "codice": "0872",
+    "descrizione": "Altra ricostruzione della palpebra, non a tutto spessore"
+  },
+  {
+    "codice": "0873",
+    "descrizione": "Ricostruzione della palpebra interessante il margine palpebrale, a tutto spessore"
+  },
+  {
+    "codice": "0874",
+    "descrizione": "Altra ricostruzione della palpebra, a tutto spessore"
+  },
+  {
+    "codice": "088",
+    "descrizione": "Altra riparazione della palpebra"
+  },
+  {
+    "codice": "0881",
+    "descrizione": "Riparazione lineare di lacerazione della palpebra e delle sopracciglia"
+  },
+  {
+    "codice": "0882",
+    "descrizione": "Riparazione di lacerazione della palpebra interessante il margine palpebrale, non a tutto spessore"
+  },
+  {
+    "codice": "0883",
+    "descrizione": "Altra riparazione di lacerazione della palpebra, non a tutto spessore"
+  },
+  {
+    "codice": "0884",
+    "descrizione": "Riparazione di lacerazione della palpebra interessante il margine palpebrale, a tutto spessore"
+  },
+  {
+    "codice": "0885",
+    "descrizione": "Altra ricostruzione di lacerazione della palpebra, a tutto spessore"
+  },
+  {
+    "codice": "0886",
+    "descrizione": "Plastica anti-rughe della palpebra inferiore"
+  },
+  {
+    "codice": "0887",
+    "descrizione": "Plastica anti-rughe della palpebra superiore"
+  },
+  {
+    "codice": "0889",
+    "descrizione": "Altra riparazione della palpebra"
+  },
+  {
+    "codice": "089",
+    "descrizione": "Altri interventi sulle palpebre"
+  },
+  {
+    "codice": "0891",
+    "descrizione": "Depilazione elettrochirurgica della palpebra"
+  },
+  {
+    "codice": "0892",
+    "descrizione": "Depilazione criochirurgica della palpebra"
+  },
+  {
+    "codice": "0893",
+    "descrizione": "Altra depilazione della palpebra"
+  },
+  {
+    "codice": "0899",
+    "descrizione": "Altri interventi sulla palpebra"
+  },
+  {
+    "codice": "09",
+    "descrizione": "Interventi sull’apparato lacrimale"
+  },
+  {
+    "codice": "090",
+    "descrizione": "Incisione della ghiandola lacrimale"
+  },
+  {
+    "codice": "091",
+    "descrizione": "Procedure diagnostiche sull’apparato lacrimale"
+  },
+  {
+    "codice": "0911",
+    "descrizione": "Biopsia della ghiandola lacrimale"
+  },
+  {
+    "codice": "0912",
+    "descrizione": "Biopsia del sacco lacrimale"
+  },
+  {
+    "codice": "0919",
+    "descrizione": "Altre procedure diagnostiche sull’apparato lacrimale"
+  },
+  {
+    "codice": "092",
+    "descrizione": "Asportazione di lesione o tessuto della ghiandola lacrimale"
+  },
+  {
+    "codice": "0920",
+    "descrizione": "Asportazione della ghiandola lacrimale, SAI"
+  },
+  {
+    "codice": "0921",
+    "descrizione": "Asportazione di lesione della ghiandola lacrimale"
+  },
+  {
+    "codice": "0922",
+    "descrizione": "Altra dacrioadenectomia parziale"
+  },
+  {
+    "codice": "0923",
+    "descrizione": "Dacrioadenectomia totale"
+  },
+  {
+    "codice": "093",
+    "descrizione": "Altri interventi sulla ghiandola lacrimale"
+  },
+  {
+    "codice": "094",
+    "descrizione": "Interventi sulle vie lacrimali"
+  },
+  {
+    "codice": "0941",
+    "descrizione": "Specillazione del punto lacrimale"
+  },
+  {
+    "codice": "0942",
+    "descrizione": "Specillazione dei canalicoli lacrimali"
+  },
+  {
+    "codice": "0943",
+    "descrizione": "Specillazione del dotto naso-lacrimale"
+  },
+  {
+    "codice": "0944",
+    "descrizione": "Intubazione del dotto naso-lacrimale"
+  },
+  {
+    "codice": "0949",
+    "descrizione": "Altre manipolazioni delle vie lacrimali"
+  },
+  {
+    "codice": "095",
+    "descrizione": "Incisione del sacco e delle vie lacrimali"
+  },
+  {
+    "codice": "0951",
+    "descrizione": "Incisione del punto lacrimale"
+  },
+  {
+    "codice": "0952",
+    "descrizione": "Incisione dei canalicoli lacrimali"
+  },
+  {
+    "codice": "0953",
+    "descrizione": "Incisione del sacco lacrimale"
+  },
+  {
+    "codice": "0959",
+    "descrizione": "Altra incisione delle vie lacrimali"
+  },
+  {
+    "codice": "096",
+    "descrizione": "Asportazione del sacco e delle vie lacrimali"
+  },
+  {
+    "codice": "097",
+    "descrizione": "Riparazione dei canalicoli e del punto lacrimale"
+  },
+  {
+    "codice": "0971",
+    "descrizione": "Correzione di eversione del punto lacrimale"
+  },
+  {
+    "codice": "0972",
+    "descrizione": "Altra riparazione del punto lacrimale"
+  },
+  {
+    "codice": "0973",
+    "descrizione": "Riparazione dei canalicoli"
+  },
+  {
+    "codice": "098",
+    "descrizione": "Fistolizzazione del tratto lacrimale verso la cavità nasale"
+  },
+  {
+    "codice": "0981",
+    "descrizione": "Dacriocistorinostomia (DCR)"
+  },
+  {
+    "codice": "0982",
+    "descrizione": "Congiuntivocistorinostomia"
+  },
+  {
+    "codice": "0983",
+    "descrizione": "Congiuntivorinostomia con inserzione di tubo o supporto"
+  },
+  {
+    "codice": "099",
+    "descrizione": "Altri interventi sull’apparato lacrimale"
+  },
+  {
+    "codice": "0991",
+    "descrizione": "Obliterazione del punto lacrimale"
+  },
+  {
+    "codice": "0999",
+    "descrizione": "Altri interventi sull’apparato lacrimale"
+  },
+  {
+    "codice": 10,
+    "descrizione": "Interventi sulla congiuntiva"
+  },
+  {
+    "codice": 100,
+    "descrizione": "Rimozione di corpo estraneo infisso nella congiuntiva con incisione"
+  },
+  {
+    "codice": 101,
+    "descrizione": "Altra incisione della congiuntiva"
+  },
+  {
+    "codice": 102,
+    "descrizione": "Procedure diagnostiche sulla congiuntiva"
+  },
+  {
+    "codice": 1021,
+    "descrizione": "Biopsia della congiuntiva"
+  },
+  {
+    "codice": 1029,
+    "descrizione": "Altre procedure diagnostiche sulla congiuntiva"
+  },
+  {
+    "codice": 103,
+    "descrizione": "Asportazione o demolizione di lesione o tessuto della congiuntiva"
+  },
+  {
+    "codice": 1031,
+    "descrizione": "Asportazione di lesione o tessuto della congiuntiva"
+  },
+  {
+    "codice": 1032,
+    "descrizione": "Demolizione di lesione della congiuntiva"
+  },
+  {
+    "codice": 1033,
+    "descrizione": "Altri interventi di demolizione sulla congiuntiva"
+  },
+  {
+    "codice": 104,
+    "descrizione": "Congiuntivoplastica"
+  },
+  {
+    "codice": 1041,
+    "descrizione": "Riparazione di simblefaron con innesto libero"
+  },
+  {
+    "codice": 1042,
+    "descrizione": "Ricostruzione di cul de sac congiuntivale con innesto libero"
+  },
+  {
+    "codice": 1043,
+    "descrizione": "Altra ricostruzione di cul de sac congiuntivale"
+  },
+  {
+    "codice": 1044,
+    "descrizione": "Altro innesto libero alla congiuntiva"
+  },
+  {
+    "codice": 1049,
+    "descrizione": "Altra congiuntivoplastica"
+  },
+  {
+    "codice": 105,
+    "descrizione": "Lisi di aderenze della congiuntiva e della palpebra"
+  },
+  {
+    "codice": 106,
+    "descrizione": "Riparazione di lacerazione della congiuntiva"
+  },
+  {
+    "codice": 109,
+    "descrizione": "Altri interventi sulla congiuntiva"
+  },
+  {
+    "codice": 1091,
+    "descrizione": "Iniezione sottocongiuntivale"
+  },
+  {
+    "codice": 1099,
+    "descrizione": "Altri interventi sulla congiuntiva"
+  },
+  {
+    "codice": 11,
+    "descrizione": "Interventi sulla cornea"
+  },
+  {
+    "codice": 110,
+    "descrizione": "Rimozione di corpo estraneo dalla cornea con impiego di magnete"
+  },
+  {
+    "codice": 111,
+    "descrizione": "Incisione della cornea"
+  },
+  {
+    "codice": 112,
+    "descrizione": "Procedure diagnostiche sulla cornea"
+  },
+  {
+    "codice": 1121,
+    "descrizione": "Curettage della cornea per striscio o coltura"
+  },
+  {
+    "codice": 1122,
+    "descrizione": "Biopsia della cornea"
+  },
+  {
+    "codice": 1129,
+    "descrizione": "Altra procedura diagnostica sulla cornea"
+  },
+  {
+    "codice": 113,
+    "descrizione": "Asportazione dello pterigium"
+  },
+  {
+    "codice": 1131,
+    "descrizione": "Trasposizione dello pterigium"
+  },
+  {
+    "codice": 1132,
+    "descrizione": "Asportazione dello pterigium con innesto della cornea"
+  },
+  {
+    "codice": 1139,
+    "descrizione": "Altra asportazione dello pterigium"
+  },
+  {
+    "codice": 114,
+    "descrizione": "Asportazione o demolizione di tessuto o altra lesione della cornea"
+  },
+  {
+    "codice": 1141,
+    "descrizione": "Rimozione meccanica dell’epitelio corneale"
+  },
+  {
+    "codice": 1142,
+    "descrizione": "Termocauterizzazione di lesione della cornea"
+  },
+  {
+    "codice": 1143,
+    "descrizione": "Crioterapia di lesione della cornea"
+  },
+  {
+    "codice": 1149,
+    "descrizione": "Altra rimozione o demolizione di lesione della cornea"
+  },
+  {
+    "codice": 115,
+    "descrizione": "Riparazione della cornea"
+  },
+  {
+    "codice": 1151,
+    "descrizione": "Sutura di ferita corneale"
+  },
+  {
+    "codice": 1152,
+    "descrizione": "Riparazione di ferita chirurgica deiscente della cornea"
+  },
+  {
+    "codice": 1153,
+    "descrizione": "Riparazione di lacerazione o ferita della cornea con lembo congiuntivale"
+  },
+  {
+    "codice": 1159,
+    "descrizione": "Altra riparazione della cornea"
+  },
+  {
+    "codice": 116,
+    "descrizione": "Trapianto di cornea"
+  },
+  {
+    "codice": 1160,
+    "descrizione": "Trapianto di cornea, non altrimenti specificato"
+  },
+  {
+    "codice": 1161,
+    "descrizione": "Cheratoplastica lamellare autologa"
+  },
+  {
+    "codice": 1162,
+    "descrizione": "Altra cheratoplastica lamellare"
+  },
+  {
+    "codice": 1163,
+    "descrizione": "Cheratoplastica perforante autologa (a tutto spessore)"
+  },
+  {
+    "codice": 1164,
+    "descrizione": "Altra cheratoplastica perforante omologa"
+  },
+  {
+    "codice": 1169,
+    "descrizione": "Altro trapianto della cornea"
+  },
+  {
+    "codice": 117,
+    "descrizione": "Altri interventi di ricostruzione della cornea"
+  },
+  {
+    "codice": 1171,
+    "descrizione": "Cheratomileusi"
+  },
+  {
+    "codice": 1172,
+    "descrizione": "Cheratofachia"
+  },
+  {
+    "codice": 1173,
+    "descrizione": "Cheratoprotesi"
+  },
+  {
+    "codice": 1174,
+    "descrizione": "Termocheratoplastica"
+  },
+  {
+    "codice": 1175,
+    "descrizione": "Cheratotomia radiale"
+  },
+  {
+    "codice": 1176,
+    "descrizione": "Epicheratofachia (lembo fresco, lembo conservato)"
+  },
+  {
+    "codice": 1179,
+    "descrizione": "Altri interventi rifrattivi sulla cornea"
+  },
+  {
+    "codice": 119,
+    "descrizione": "Altri interventi sulla cornea"
+  },
+  {
+    "codice": 1191,
+    "descrizione": "Tatuaggio della cornea"
+  },
+  {
+    "codice": 1192,
+    "descrizione": "Rimozione di impianto artificiale dalla cornea"
+  },
+  {
+    "codice": 1199,
+    "descrizione": "Altri interventi sulla cornea"
+  },
+  {
+    "codice": 12,
+    "descrizione": "Interventi sull’iride, sul corpo ciliare, sulla sclera, sulla camera anteriore"
+  },
+  {
+    "codice": 120,
+    "descrizione": "Rimozione di corpo estraneo intraoculare dal segmento anteriore dell’occhio"
+  },
+  {
+    "codice": 1200,
+    "descrizione": "Rimozione di corpo estraneo intraoculare dal segmento anteriore dell’occhio, SAI"
+  },
+  {
+    "codice": 1201,
+    "descrizione": "Rimozione di corpo estraneo intraoculare dal segmento anteriore dell’occhio con impiego di magnete"
+  },
+  {
+    "codice": 1202,
+    "descrizione": "Rimozione di corpo estraneo intraoculare dal segmento anteriore dell’occhio senza impiego di magnete"
+  },
+  {
+    "codice": 121,
+    "descrizione": "Iridotomia ed iridectomia semplice"
+  },
+  {
+    "codice": 1211,
+    "descrizione": "Iridotomia mediante trasfissione"
+  },
+  {
+    "codice": 1212,
+    "descrizione": "Altra iridotomia"
+  },
+  {
+    "codice": 1213,
+    "descrizione": "Escissione di iride prolassata"
+  },
+  {
+    "codice": 1214,
+    "descrizione": "Altra iridectomia"
+  },
+  {
+    "codice": 122,
+    "descrizione": "Procedure diagnostiche sull’iride, sul corpo ciliare, sulla sclera e sulla camera anteriore"
+  },
+  {
+    "codice": 1221,
+    "descrizione": "Aspirazione diagnostica della camera anteriore dell’occhio"
+  },
+  {
+    "codice": 1222,
+    "descrizione": "Biopsia dell’iride"
+  },
+  {
+    "codice": 1229,
+    "descrizione": "Altra procedura diagnostica sull’iride, sul corpo ciliare, sulla sclera e sulla camera anteriore"
+  },
+  {
+    "codice": 123,
+    "descrizione": "Iridoplastica e coreoplastica"
+  },
+  {
+    "codice": 1231,
+    "descrizione": "Lisi di goniosinechie"
+  },
+  {
+    "codice": 1232,
+    "descrizione": "Lisi di altre sinechie anteriori"
+  },
+  {
+    "codice": 1233,
+    "descrizione": "Lisi di sinechie posteriori"
+  },
+  {
+    "codice": 1234,
+    "descrizione": "Lisi di aderenze corneovitreali"
+  },
+  {
+    "codice": 1235,
+    "descrizione": "Coreoplastica"
+  },
+  {
+    "codice": 1239,
+    "descrizione": "Altra iridoplastica"
+  },
+  {
+    "codice": 124,
+    "descrizione": "Asportazione o demolizione di lesione dell’iride e del corpo ciliare"
+  },
+  {
+    "codice": 1240,
+    "descrizione": "Rimozione di lesione del segmento anteriore dell’occhio, SAI"
+  },
+  {
+    "codice": 1241,
+    "descrizione": "Demolizione di lesione dell’iride, non escissionale"
+  },
+  {
+    "codice": 1242,
+    "descrizione": "Asportazione di lesione dell’iride"
+  },
+  {
+    "codice": 1243,
+    "descrizione": "Demolizione di lesione del corpo ciliare non escissionale"
+  },
+  {
+    "codice": 1244,
+    "descrizione": "Asportazione di lesione del corpo ciliare"
+  },
+  {
+    "codice": 125,
+    "descrizione": "Interventi per favorire la circolazione intraoculare"
+  },
+  {
+    "codice": 1251,
+    "descrizione": "Goniopuntura senza goniotomia"
+  },
+  {
+    "codice": 1252,
+    "descrizione": "Goniotomia senza goniopuntura"
+  },
+  {
+    "codice": 1253,
+    "descrizione": "Goniotomia con goniopuntura"
+  },
+  {
+    "codice": 1254,
+    "descrizione": "Trabeculotomia ab externo"
+  },
+  {
+    "codice": 1255,
+    "descrizione": "Ciclodialisi"
+  },
+  {
+    "codice": 1259,
+    "descrizione": "Altri interventi per facilitare la circolazione intraoculare (Trabeculoplastica mediante laser) (Goniospasi mediante laser)"
+  },
+  {
+    "codice": 126,
+    "descrizione": "Fistolizzazione sclerale"
+  },
+  {
+    "codice": 1261,
+    "descrizione": "Trapanazione sclerale con iridectomia"
+  },
+  {
+    "codice": 1262,
+    "descrizione": "Termocauterizzazione della sclera con iridectomia (Sclerotomia)"
+  },
+  {
+    "codice": 1263,
+    "descrizione": "Iridencleisi e iridotasi"
+  },
+  {
+    "codice": 1264,
+    "descrizione": "Trabeculectomia ab externo"
+  },
+  {
+    "codice": 1265,
+    "descrizione": "Altra fistolizzazione sclerale con iridectomia"
+  },
+  {
+    "codice": 1266,
+    "descrizione": "Revisione postoperatoria di interventi di fistolizzazione della sclera"
+  },
+  {
+    "codice": 1269,
+    "descrizione": "Altri interventi di fistolizzazione della sclera"
+  },
+  {
+    "codice": 127,
+    "descrizione": "Altri interventi chirurgici per ridurre l’ipertono oculare"
+  },
+  {
+    "codice": 1271,
+    "descrizione": "Ciclodiatermia"
+  },
+  {
+    "codice": 1272,
+    "descrizione": "Ciclocrioterapia"
+  },
+  {
+    "codice": 1273,
+    "descrizione": "Ciclofotocoagulazione"
+  },
+  {
+    "codice": 1274,
+    "descrizione": "Riduzione del corpo ciliare, SAI"
+  },
+  {
+    "codice": 1279,
+    "descrizione": "Altri interventi per glaucoma"
+  },
+  {
+    "codice": 128,
+    "descrizione": "Interventi sulla sclera"
+  },
+  {
+    "codice": 1281,
+    "descrizione": "Sutura di ferita sclerale"
+  },
+  {
+    "codice": 1282,
+    "descrizione": "Riparazione di fistola sclerale"
+  },
+  {
+    "codice": 1283,
+    "descrizione": "Revisione di ferita operatoria del segmento anteriore dell’occhio non classificata altrove"
+  },
+  {
+    "codice": 1284,
+    "descrizione": "Asportazione o demolizione di lesione della sclera"
+  },
+  {
+    "codice": 1285,
+    "descrizione": "Riparazione di stafiloma della sclera con innesto"
+  },
+  {
+    "codice": 1286,
+    "descrizione": "Altra riparazione di stafiloma della sclera"
+  },
+  {
+    "codice": 1287,
+    "descrizione": "Rinforzo di sclera mediante innesto"
+  },
+  {
+    "codice": 1288,
+    "descrizione": "Altro rinforzo della sclera"
+  },
+  {
+    "codice": 1289,
+    "descrizione": "Altri interventi sulla sclera"
+  },
+  {
+    "codice": 129,
+    "descrizione": "Altri interventi sull’iride, sul corpo ciliare e sulla camera anteriore"
+  },
+  {
+    "codice": 1291,
+    "descrizione": "Paracentesi della camera anteriore"
+  },
+  {
+    "codice": 1292,
+    "descrizione": "Iniezione nella camera anteriore"
+  },
+  {
+    "codice": 1293,
+    "descrizione": "Rimozione o distruzione dell’epitelio invadente la camera anteriore"
+  },
+  {
+    "codice": 1297,
+    "descrizione": "Altri interventi sull’iride"
+  },
+  {
+    "codice": 1298,
+    "descrizione": "Altri interventi sul corpo ciliare"
+  },
+  {
+    "codice": 1299,
+    "descrizione": "Altri interventi sulla camera anteriore"
+  },
+  {
+    "codice": 13,
+    "descrizione": "Interventi sul cristallino"
+  },
+  {
+    "codice": 130,
+    "descrizione": "Rimozione di corpo estraneo dal cristallino"
+  },
+  {
+    "codice": 1300,
+    "descrizione": "Rimozione di corpo estraneo dal cristallino, SAI"
+  },
+  {
+    "codice": 1301,
+    "descrizione": "Rimozione di corpo estraneo dal cristallino con magnete"
+  },
+  {
+    "codice": 1302,
+    "descrizione": "Rimozione di corpo estraneo dal cristallino senza magnete"
+  },
+  {
+    "codice": 131,
+    "descrizione": "Estrazione intracapsulare del cristallino"
+  },
+  {
+    "codice": 1311,
+    "descrizione": "Estrazione intracapsulare del cristallino per via temporale"
+  },
+  {
+    "codice": 1319,
+    "descrizione": "Altra estrazione intracapsulare del cristallino"
+  },
+  {
+    "codice": 132,
+    "descrizione": "Estrazione extracapsulare della cataratta con tecnica di estrazione lineare"
+  },
+  {
+    "codice": 133,
+    "descrizione": "Estrazione extracapsulare del cristallino con tecnica di aspirazione semplice (e di irrigazione)"
+  },
+  {
+    "codice": 134,
+    "descrizione": "Estrazione extracapsulare della cataratta con tecnica di frammentazione ed aspirazione"
+  },
+  {
+    "codice": 1341,
+    "descrizione": "Facoemulsificazione ed aspirazione di cataratta"
+  },
+  {
+    "codice": 1342,
+    "descrizione": "Facoframmentazione ed aspirazione di cataratta per via pars plana"
+  },
+  {
+    "codice": 1343,
+    "descrizione": "Dacoframmentazione meccanica ed aspirazione della cataratta"
+  },
+  {
+    "codice": 135,
+    "descrizione": "Altra estrazione extracapsulare del cristallino"
+  },
+  {
+    "codice": 1351,
+    "descrizione": "Estrazione extracapsulare del cristallino per via temporale"
+  },
+  {
+    "codice": 1359,
+    "descrizione": "Altra estrazione extracapsulare del cristallino"
+  },
+  {
+    "codice": 136,
+    "descrizione": "Altra estrazione di cataratta"
+  },
+  {
+    "codice": 1364,
+    "descrizione": "Capsulotomia con YAG-laser dopo estrazione di cataratta"
+  },
+  {
+    "codice": 1365,
+    "descrizione": "Asportazione chirurgica di cataratta secondaria"
+  },
+  {
+    "codice": 1366,
+    "descrizione": "Capsulotomia chirurgica dopo estrazione di cataratta"
+  },
+  {
+    "codice": 1369,
+    "descrizione": "Altra estrazione di cataratta secondaria"
+  },
+  {
+    "codice": 137,
+    "descrizione": "Inserzione di protesi endoculare"
+  },
+  {
+    "codice": 1370,
+    "descrizione": "Inserzione di cristallino artificiale, SAI"
+  },
+  {
+    "codice": 1371,
+    "descrizione": "Inserzione di cristallino artificiale intraoculare al momento della estrazione di cataratta, eseguiti in contemporanea"
+  },
+  {
+    "codice": 1372,
+    "descrizione": "Impianto secondario di cristallino artificiale"
+  },
+  {
+    "codice": 138,
+    "descrizione": "Rimozione di cristallino impiantato"
+  },
+  {
+    "codice": 139,
+    "descrizione": "Altri interventi sul cristallino"
+  },
+  {
+    "codice": 1390,
+    "descrizione": "Interventi sul cristallino, non classificati altrove"
+  },
+  {
+    "codice": 1391,
+    "descrizione": "Impianto di lenti telescopiche intraoculari impianto di telescopio miniaturizzato inclusa rimozione del cristallino con qualsiasi metodo"
+  },
+  {
+    "codice": 14,
+    "descrizione": "Interventi sulla retina, sulla coroide, sul corpo vitreo e sulla camera posteriore"
+  },
+  {
+    "codice": 140,
+    "descrizione": "Rimozione di corpo estraneo dal segmento posteriore dell’occhio"
+  },
+  {
+    "codice": 1400,
+    "descrizione": "Rimozione di corpo estraneo dal segmento posteriore dell’occhio, SAI"
+  },
+  {
+    "codice": 1401,
+    "descrizione": "Rimozione di corpo estraneo dal segmento posteriore dell’occhio con utilizzo di magnete"
+  },
+  {
+    "codice": 1402,
+    "descrizione": "Rimozione di corpo estraneo dal segmento posteriore dell’occhio senza utilizzo di magnete"
+  },
+  {
+    "codice": 141,
+    "descrizione": "Procedure diagnostiche sulla retina, sulla coroide, sul corpo vitreo e sulla camera posteriore"
+  },
+  {
+    "codice": 1411,
+    "descrizione": "Aspirazione diagnostica del corpo vitreo"
+  },
+  {
+    "codice": 1419,
+    "descrizione": "Altre procedure diagnostiche sulla retina, sulla coroide, sul corpo vitreo e sulla camera posteriore"
+  },
+  {
+    "codice": 142,
+    "descrizione": "Trattamento di lesione retinica e coroideale"
+  },
+  {
+    "codice": 1421,
+    "descrizione": "Trattamento diatermico di lesione corioretinica"
+  },
+  {
+    "codice": 1422,
+    "descrizione": "Criotrattamento di lesione corioretinica"
+  },
+  {
+    "codice": 1423,
+    "descrizione": "Fotocoagulazione di lesione corioretinica con xenon"
+  },
+  {
+    "codice": 1424,
+    "descrizione": "Fotocoagulazione di lesione corioretinica con laser"
+  },
+  {
+    "codice": 1425,
+    "descrizione": "Fotocoagulazione di lesione corioretinica"
+  },
+  {
+    "codice": 1426,
+    "descrizione": "Trattamento di lesione corioretinica con terapia radiante"
+  },
+  {
+    "codice": 1427,
+    "descrizione": "Trattamento di lesione corioretinica mediante impianto di sorgente radioattiva"
+  },
+  {
+    "codice": 1429,
+    "descrizione": "Altro trattamento di lesione corioretinica"
+  },
+  {
+    "codice": 143,
+    "descrizione": "Riparazione di lacerazione della retina"
+  },
+  {
+    "codice": 1431,
+    "descrizione": "Riparazione di lacerazione della retina mediante diatermia"
+  },
+  {
+    "codice": 1432,
+    "descrizione": "Riparazione di lacerazione della retina mediante crioterapia"
+  },
+  {
+    "codice": 1433,
+    "descrizione": "Riparazione di lacerazione della retina mediante fotocoagulazione con xenon"
+  },
+  {
+    "codice": 1434,
+    "descrizione": "Riparazione di lacerazione della retina mediante fotocoagulazione con argon (laser)"
+  },
+  {
+    "codice": 1435,
+    "descrizione": "Riparazione di lacerazione della retina mediante fotocoagulazione di tipo non specificato"
+  },
+  {
+    "codice": 1439,
+    "descrizione": "Altra riparazione di lacerazione della retina"
+  },
+  {
+    "codice": 144,
+    "descrizione": "Riparazione di distacco retinico mediante indentazione sclerale con impianto"
+  },
+  {
+    "codice": 1441,
+    "descrizione": "Piombaggio sclerale con impianto"
+  },
+  {
+    "codice": 1449,
+    "descrizione": "Altre indentazioni sclerali"
+  },
+  {
+    "codice": 145,
+    "descrizione": "Altra riparazione di distacco retinico"
+  },
+  {
+    "codice": 1451,
+    "descrizione": "Riparazione di distacco retinico mediante diatermia"
+  },
+  {
+    "codice": 1452,
+    "descrizione": "Riparazione di distacco retinico con crioterapia"
+  },
+  {
+    "codice": 1453,
+    "descrizione": "Riparazione di distacco retinico mediante fotocoagulazione xenon"
+  },
+  {
+    "codice": 1454,
+    "descrizione": "Riparazione di distacco retinico mediante fotocoagulazione laser"
+  },
+  {
+    "codice": 1455,
+    "descrizione": "Riparazione di distacco retinico mediante fotocoagulazione di tipo non specificato"
+  },
+  {
+    "codice": 1459,
+    "descrizione": "Altra riparazione di distacco retinico"
+  },
+  {
+    "codice": 146,
+    "descrizione": "Rimozione dal segmento posteriore dell’occhio di materiale impiantato chirurgicamente"
+  },
+  {
+    "codice": 147,
+    "descrizione": "Interventi sul corpo vitreo"
+  },
+  {
+    "codice": 1471,
+    "descrizione": "Vitrectomia per via anteriore (limbare)"
+  },
+  {
+    "codice": 1472,
+    "descrizione": "Altra rimozione del corpo vitreo"
+  },
+  {
+    "codice": 1473,
+    "descrizione": "Vitrectomia meccanica per via anteriore"
+  },
+  {
+    "codice": 1474,
+    "descrizione": "Altra vitrectomia meccanica"
+  },
+  {
+    "codice": 1475,
+    "descrizione": "Iniezione di sostituti vitreali (sostanze con effetto tamponante ab interno: aria, gas, olio di silicone, perfluorocarbonati, ecc.)"
+  },
+  {
+    "codice": 1479,
+    "descrizione": "Altri interventi sul corpo vitreo"
+  },
+  {
+    "codice": 149,
+    "descrizione": "Altri interventi sulla retina, sulla coroide e sulla camera posteriore"
+  },
+  {
+    "codice": 15,
+    "descrizione": "Interventi sui muscoli extraoculari"
+  },
+  {
+    "codice": 150,
+    "descrizione": "Procedure diagnostiche su muscoli e tendini extraoculari"
+  },
+  {
+    "codice": 1501,
+    "descrizione": "Biopsia di muscoli o tendini extraoculari"
+  },
+  {
+    "codice": 1509,
+    "descrizione": "Altre procedure diagnostiche su muscoli e tendini extraoculari"
+  },
+  {
+    "codice": 151,
+    "descrizione": "Interventi su un muscolo extraoculare che richiedono distacco temporaneo dal bulbo"
+  },
+  {
+    "codice": 1511,
+    "descrizione": "Arretramento di un muscolo extraoculare"
+  },
+  {
+    "codice": 1512,
+    "descrizione": "Avanzamento di un muscolo extraoculare"
+  },
+  {
+    "codice": 1513,
+    "descrizione": "Resezione di un muscolo extraoculare"
+  },
+  {
+    "codice": 1519,
+    "descrizione": "Altri interventi su un muscolo extraoculare che richiedono distacco temporaneo dal bulbo"
+  },
+  {
+    "codice": 152,
+    "descrizione": "Altri interventi su un muscolo extraoculare"
+  },
+  {
+    "codice": 1521,
+    "descrizione": "Interventi di allungamento di un muscolo extraoculare"
+  },
+  {
+    "codice": 1522,
+    "descrizione": "Interventi di accorciamento di un muscolo extraoculare"
+  },
+  {
+    "codice": 1529,
+    "descrizione": "Altri interventi su un muscolo extraoculare"
+  },
+  {
+    "codice": 153,
+    "descrizione": "Interventi su due o più muscoli extraoculari che richiedono distacco temporaneo dal bulbo, uno o entrambi gli occhi"
+  },
+  {
+    "codice": 154,
+    "descrizione": "Altri interventi su due o più muscoli extraoculari, uno o entrambi gli occhi"
+  },
+  {
+    "codice": 155,
+    "descrizione": "Trasposizione di muscoli extraoculari"
+  },
+  {
+    "codice": 156,
+    "descrizione": "Revisione di chirurgia su muscolo extraoculare"
+  },
+  {
+    "codice": 157,
+    "descrizione": "Riparazione di lesioni del muscolo extraoculare"
+  },
+  {
+    "codice": 159,
+    "descrizione": "Altri interventi su muscoli e tendini extraoculari"
+  },
+  {
+    "codice": 16,
+    "descrizione": "Interventi sull’orbita e sul globo oculare"
+  },
+  {
+    "codice": 160,
+    "descrizione": "Orbitotomia"
+  },
+  {
+    "codice": 1601,
+    "descrizione": "Orbitotomia con lembo osseo"
+  },
+  {
+    "codice": 1602,
+    "descrizione": "Orbitotomia con inserzione di impianto orbitale"
+  },
+  {
+    "codice": 1609,
+    "descrizione": "Altra orbitotomia"
+  },
+  {
+    "codice": 161,
+    "descrizione": "Rimozione di corpo estraneo penetrante, SAI"
+  },
+  {
+    "codice": 162,
+    "descrizione": "Procedure diagnostiche sull’orbita e sul bulbo oculare"
+  },
+  {
+    "codice": 1621,
+    "descrizione": "Oftalmoscopia"
+  },
+  {
+    "codice": 1622,
+    "descrizione": "Aspirazione diagnostica dell’orbita"
+  },
+  {
+    "codice": 1623,
+    "descrizione": "Biopsia del bulbo oculare e dell’orbita"
+  },
+  {
+    "codice": 1629,
+    "descrizione": "Altre procedure diagnostiche sull’orbita e sul bulbo oculare"
+  },
+  {
+    "codice": 163,
+    "descrizione": "Eviscerazione del bulbo oculare"
+  },
+  {
+    "codice": 1631,
+    "descrizione": "Rimozione di contenuti del bulbo oculare con impianto contemporaneo endosclerale"
+  },
+  {
+    "codice": 1639,
+    "descrizione": "Altra eviscerazione del bulbo oculare"
+  },
+  {
+    "codice": 164,
+    "descrizione": "Enucleazione del bulbo oculare"
+  },
+  {
+    "codice": 1641,
+    "descrizione": "Enucleazione del bulbo oculare con impianto contemporaneo nella capsula di Tenone di protesi, con inserzione di muscoli"
+  },
+  {
+    "codice": 1642,
+    "descrizione": "Enucleazione del bulbo oculare con altro impianto contemporaneo"
+  },
+  {
+    "codice": 1649,
+    "descrizione": "Altra enucleazione del bulbo oculare"
+  },
+  {
+    "codice": 165,
+    "descrizione": "Eviscerazione dei contenuti dell’orbita"
+  },
+  {
+    "codice": 1651,
+    "descrizione": "Eviscerazione dell’orbita con rimozione di strutture adiacenti"
+  },
+  {
+    "codice": 1652,
+    "descrizione": "Eviscerazione dell’orbita con rimozione terapeutica dell’osso orbitale"
+  },
+  {
+    "codice": 1659,
+    "descrizione": "Altra eviscerazione dei contenuti dell’orbita"
+  },
+  {
+    "codice": 166,
+    "descrizione": "Interventi secondari dopo rimozione del bulbo oculare"
+  },
+  {
+    "codice": 1661,
+    "descrizione": "Inserzione secondaria di impianto oculare"
+  },
+  {
+    "codice": 1662,
+    "descrizione": "Revisione e reinserzione di impianto oculare"
+  },
+  {
+    "codice": 1663,
+    "descrizione": "Revisione di enucleazione di orbita con innesto"
+  },
+  {
+    "codice": 1664,
+    "descrizione": "Altra revisione di enucleazione di orbita"
+  },
+  {
+    "codice": 1665,
+    "descrizione": "Innesto secondario ad eviscerazione della cavità oculare"
+  },
+  {
+    "codice": 1666,
+    "descrizione": "Altra revisione di eviscerazione della cavità oculare"
+  },
+  {
+    "codice": 1669,
+    "descrizione": "Altri interventi secondari dopo rimozione di bulbo oculare"
+  },
+  {
+    "codice": 167,
+    "descrizione": "Rimozione di impianto oculare o orbitale"
+  },
+  {
+    "codice": 1671,
+    "descrizione": "Rimozione di protesi oculare"
+  },
+  {
+    "codice": 1672,
+    "descrizione": "Rimozione di protesi orbitale"
+  },
+  {
+    "codice": 168,
+    "descrizione": "Riparazione di lesione del bulbo oculare e dell’orbita"
+  },
+  {
+    "codice": 1681,
+    "descrizione": "Riparazione di ferita dell’orbita"
+  },
+  {
+    "codice": 1682,
+    "descrizione": "Riparazione di rottura del bulbo oculare"
+  },
+  {
+    "codice": 1689,
+    "descrizione": "Altra riparazione di lesione del bulbo oculare o dell’orbita"
+  },
+  {
+    "codice": 169,
+    "descrizione": "Altri interventi sull’orbita e sul bulbo oculare"
+  },
+  {
+    "codice": 1691,
+    "descrizione": "Iniezione retrobulbare di sostanze terapeutiche"
+  },
+  {
+    "codice": 1692,
+    "descrizione": "Asportazione di lesione dell’orbita"
+  },
+  {
+    "codice": 1693,
+    "descrizione": "Asportazione di lesione oculare, struttura non specificata"
+  },
+  {
+    "codice": 1698,
+    "descrizione": "Altri interventi sull’orbita"
+  },
+  {
+    "codice": 1699,
+    "descrizione": "Altri interventi sul bulbo oculare"
+  },
+  {
+    "codice": 18,
+    "descrizione": "Interventi sull’orecchio esterno"
+  },
+  {
+    "codice": 180,
+    "descrizione": "Incisione dell’orecchio esterno"
+  },
+  {
+    "codice": 1801,
+    "descrizione": "Perforazione del lobo dell’orecchio"
+  },
+  {
+    "codice": 1802,
+    "descrizione": "Incisione del canale uditivo esterno"
+  },
+  {
+    "codice": 1809,
+    "descrizione": "Altra incisione dell’orecchio esterno"
+  },
+  {
+    "codice": 181,
+    "descrizione": "Procedure diagnostiche sull’orecchio esterno"
+  },
+  {
+    "codice": 1811,
+    "descrizione": "Otoscopia"
+  },
+  {
+    "codice": 1812,
+    "descrizione": "Biopsia dell’orecchio esterno"
+  },
+  {
+    "codice": 1819,
+    "descrizione": "Altre procedure diagnostiche sull’orecchio esterno (Microtimpanoscopia)"
+  },
+  {
+    "codice": 182,
+    "descrizione": "Asportazione o demolizione di lesione dell’orecchio esterno"
+  },
+  {
+    "codice": 1821,
+    "descrizione": "Asportazione del seno preauricolare"
+  },
+  {
+    "codice": 1829,
+    "descrizione": "Asportazione o demolizione di altra lesione dell’orecchio esterno"
+  },
+  {
+    "codice": 183,
+    "descrizione": "Altra asportazione dell’orecchio esterno"
+  },
+  {
+    "codice": 1831,
+    "descrizione": "Asportazione radicale di lesione dell’orecchio esterno"
+  },
+  {
+    "codice": 1839,
+    "descrizione": "Altra asportazione dell’orecchio esterno"
+  },
+  {
+    "codice": 184,
+    "descrizione": "Sutura di lacerazione dell’orecchio esterno"
+  },
+  {
+    "codice": 185,
+    "descrizione": "Correzione chirurgica di orecchio sporgente"
+  },
+  {
+    "codice": 186,
+    "descrizione": "Ricostruzione del canale uditivo esterno"
+  },
+  {
+    "codice": 187,
+    "descrizione": "Altra riparazione plastica dell’orecchio esterno"
+  },
+  {
+    "codice": 1871,
+    "descrizione": "Ricostruzione di padiglione auricolare"
+  },
+  {
+    "codice": 1872,
+    "descrizione": "Reimpianto di orecchio amputato"
+  },
+  {
+    "codice": 1879,
+    "descrizione": "Altra riparazione plastica dell’orecchio esterno"
+  },
+  {
+    "codice": 189,
+    "descrizione": "Altri interventi sull’orecchio esterno"
+  },
+  {
+    "codice": 19,
+    "descrizione": "Interventi di ricostruzione dell’orecchio medio"
+  },
+  {
+    "codice": 190,
+    "descrizione": "Mobilizzazione della staffa"
+  },
+  {
+    "codice": 191,
+    "descrizione": "Stapedectomia"
+  },
+  {
+    "codice": 1911,
+    "descrizione": "Stapedectomia con sostituzione dell’incudine"
+  },
+  {
+    "codice": 1919,
+    "descrizione": "Altra stapedectomia"
+  },
+  {
+    "codice": 192,
+    "descrizione": "Revisione di stapedectomia"
+  },
+  {
+    "codice": 1921,
+    "descrizione": "Revisione di stapedectomia con sostituzione dell’incudine"
+  },
+  {
+    "codice": 1929,
+    "descrizione": "Altra revisione di stapedectomia"
+  },
+  {
+    "codice": 193,
+    "descrizione": "Altri interventi sulla catena degli ossicini"
+  },
+  {
+    "codice": 194,
+    "descrizione": "Miringoplastica"
+  },
+  {
+    "codice": 195,
+    "descrizione": "Altra timpanoplastica"
+  },
+  {
+    "codice": 1952,
+    "descrizione": "Timpanoplastica di tipo II"
+  },
+  {
+    "codice": 1953,
+    "descrizione": "Timpanoplastica di tipo III"
+  },
+  {
+    "codice": 1954,
+    "descrizione": "Timpanoplastica di tipo IV"
+  },
+  {
+    "codice": 1955,
+    "descrizione": "Timpanoplastica di tipo V"
+  },
+  {
+    "codice": 196,
+    "descrizione": "Revisione di timpanoplastica"
+  },
+  {
+    "codice": 199,
+    "descrizione": "Altra riparazione dell’orecchio medio"
+  },
+  {
+    "codice": 20,
+    "descrizione": "Altri interventi sull’orecchio medio e sull’orecchio interno"
+  },
+  {
+    "codice": 200,
+    "descrizione": "Miringotomia"
+  },
+  {
+    "codice": 2001,
+    "descrizione": "Miringotomia con inserzione di tubo"
+  },
+  {
+    "codice": 2009,
+    "descrizione": "Altra miringotomia"
+  },
+  {
+    "codice": 201,
+    "descrizione": "Rimozione di tubo timpanostomico"
+  },
+  {
+    "codice": 202,
+    "descrizione": "Incisione della mastoide e dell’orecchio medio"
+  },
+  {
+    "codice": 2021,
+    "descrizione": "Incisione della mastoide"
+  },
+  {
+    "codice": 2022,
+    "descrizione": "Incisione di cellule pneumatiche della rocca petrosa dell’osso temporale"
+  },
+  {
+    "codice": 2023,
+    "descrizione": "Incisione dell’orecchio medio"
+  },
+  {
+    "codice": 203,
+    "descrizione": "Procedure diagnostiche sull’orecchio medio e sull’orecchio interno"
+  },
+  {
+    "codice": 2031,
+    "descrizione": "Elettrococleografia"
+  },
+  {
+    "codice": 2032,
+    "descrizione": "Biopsia dell’orecchio interno e dell’orecchio medio"
+  },
+  {
+    "codice": 2039,
+    "descrizione": "Altre procedure diagnostiche sull’orecchio medio e sull’orecchio interno"
+  },
+  {
+    "codice": 204,
+    "descrizione": "Mastoidectomia"
+  },
+  {
+    "codice": 2041,
+    "descrizione": "Mastoidectomia semplice"
+  },
+  {
+    "codice": 2042,
+    "descrizione": "Mastoidectomia radicale"
+  },
+  {
+    "codice": 2049,
+    "descrizione": "Altra mastoidectomia"
+  },
+  {
+    "codice": 205,
+    "descrizione": "Altra asportazione dell’orecchio medio"
+  },
+  {
+    "codice": 2051,
+    "descrizione": "Asportazione di lesione dell’orecchio medio"
+  },
+  {
+    "codice": 2059,
+    "descrizione": "Altra asportazione dell’orecchio medio"
+  },
+  {
+    "codice": 206,
+    "descrizione": "Fenestrazione dell’orecchio interno"
+  },
+  {
+    "codice": 2061,
+    "descrizione": "Fenestrazione dell’orecchio interno (iniziale)"
+  },
+  {
+    "codice": 2062,
+    "descrizione": "Revisione di fenestrazione dell’orecchio interno"
+  },
+  {
+    "codice": 207,
+    "descrizione": "Incisione, asportazione e demolizione dell’orecchio interno"
+  },
+  {
+    "codice": 2071,
+    "descrizione": "Anastomosi endolinfatico (Decompressione del sacco endolinfatico)"
+  },
+  {
+    "codice": 2072,
+    "descrizione": "Iniezione nell’orecchio interno"
+  },
+  {
+    "codice": 2079,
+    "descrizione": "Altra incisione, asportazione e demolizione dell’orecchio interno"
+  },
+  {
+    "codice": 208,
+    "descrizione": "Interventi sulla tuba di Eustachio"
+  },
+  {
+    "codice": 209,
+    "descrizione": "Altri interventi sull’orecchio medio e interno"
+  },
+  {
+    "codice": 2091,
+    "descrizione": "Timpanosimpatectomia"
+  },
+  {
+    "codice": 2092,
+    "descrizione": "Revisione di mastoidectomia"
+  },
+  {
+    "codice": 2093,
+    "descrizione": "Riparazione delle finestre ovale e rotonda"
+  },
+  {
+    "codice": 2094,
+    "descrizione": "Iniezione del timpano"
+  },
+  {
+    "codice": 2095,
+    "descrizione": "Impianto di apparecchio acustico elettromagnetico"
+  },
+  {
+    "codice": 2096,
+    "descrizione": "Impianto o sostituzione di apparecchio protesico cocleare, SAI"
+  },
+  {
+    "codice": 2097,
+    "descrizione": "Impianto o sostituzione di apparecchio protesico cocleare, singolo canale"
+  },
+  {
+    "codice": 2098,
+    "descrizione": "Impianto o sostituzione di apparecchio protesico cocleare, canale multiplo"
+  },
+  {
+    "codice": 2099,
+    "descrizione": "Altri interventi sull’orecchio medio e interno"
+  },
+  {
+    "codice": 21,
+    "descrizione": "Interventi sul naso"
+  },
+  {
+    "codice": 210,
+    "descrizione": "Controllo di epistassi"
+  },
+  {
+    "codice": 2100,
+    "descrizione": "Controllo di epistassi, SAI"
+  },
+  {
+    "codice": 2101,
+    "descrizione": "Controllo di epistassi mediante tamponamento nasale anteriore"
+  },
+  {
+    "codice": 2102,
+    "descrizione": "Controllo di epistassi mediante tamponamento nasale posteriore (e anteriore)"
+  },
+  {
+    "codice": 2103,
+    "descrizione": "Controllo di epistassi mediante cauterizzazione (e tamponamento)"
+  },
+  {
+    "codice": 2104,
+    "descrizione": "Controllo di epistassi mediante legatura delle arterie etmoidali"
+  },
+  {
+    "codice": 2105,
+    "descrizione": "Controllo di epistassi mediante legatura (transantrale) della arteria mascellare"
+  },
+  {
+    "codice": 2106,
+    "descrizione": "Controllo di epistassi mediante legatura dell’arteria carotide esterna"
+  },
+  {
+    "codice": 2107,
+    "descrizione": "Controllo di epistassi mediante asportazione della mucosa nasale e innesto di cute del setto e della parete laterale del naso"
+  },
+  {
+    "codice": 2109,
+    "descrizione": "Controllo di epistassi con altre procedure"
+  },
+  {
+    "codice": 211,
+    "descrizione": "Incisione del naso"
+  },
+  {
+    "codice": 212,
+    "descrizione": "Procedure diagnostiche sul naso"
+  },
+  {
+    "codice": 2121,
+    "descrizione": "Rinoscopia"
+  },
+  {
+    "codice": 2122,
+    "descrizione": "Biopsia del naso"
+  },
+  {
+    "codice": 2129,
+    "descrizione": "Altre procedure diagnostiche sul naso"
+  },
+  {
+    "codice": 213,
+    "descrizione": "Asportazione o demolizione locale di lesione del naso"
+  },
+  {
+    "codice": 2130,
+    "descrizione": "Asportazione o demolizione di lesione del naso, SAI"
+  },
+  {
+    "codice": 2131,
+    "descrizione": "Asportazione o demolizione locale di lesione intranasale"
+  },
+  {
+    "codice": 2132,
+    "descrizione": "Asportazione o demolizione locale di altra lesione del naso"
+  },
+  {
+    "codice": 214,
+    "descrizione": "Resezione del naso"
+  },
+  {
+    "codice": 215,
+    "descrizione": "Resezione sottomucosa del setto nasale"
+  },
+  {
+    "codice": 216,
+    "descrizione": "Turbinectomia"
+  },
+  {
+    "codice": 2161,
+    "descrizione": "Turbinectomia mediante diatermia o criochirurgia"
+  },
+  {
+    "codice": 2162,
+    "descrizione": "Frattura dei turbinati (Decongestione chirurgica dei turbinati)"
+  },
+  {
+    "codice": 2169,
+    "descrizione": "Altra turbinectomia"
+  },
+  {
+    "codice": 217,
+    "descrizione": "Riduzione di frattura nasale"
+  },
+  {
+    "codice": 2171,
+    "descrizione": "Riduzione chiusa di frattura nasale non a cielo aperto"
+  },
+  {
+    "codice": 2172,
+    "descrizione": "Riduzione aperta di frattura nasale a cielo aperto"
+  },
+  {
+    "codice": 218,
+    "descrizione": "Interventi di riparazione e di plastica del naso"
+  },
+  {
+    "codice": 2181,
+    "descrizione": "Sutura di lacerazione del naso"
+  },
+  {
+    "codice": 2182,
+    "descrizione": "Chiusura di fistola nasale"
+  },
+  {
+    "codice": 2183,
+    "descrizione": "Ricostruzione totale del naso"
+  },
+  {
+    "codice": 2184,
+    "descrizione": "Revisione di rinoplastica"
+  },
+  {
+    "codice": 2185,
+    "descrizione": "Rinoplastica di ingrandimento"
+  },
+  {
+    "codice": 2186,
+    "descrizione": "Rinoplastica parziale"
+  },
+  {
+    "codice": 2187,
+    "descrizione": "Altra rinoplastica"
+  },
+  {
+    "codice": 2188,
+    "descrizione": "Altra plastica del setto"
+  },
+  {
+    "codice": 2189,
+    "descrizione": "Altri interventi di riparazione e di plastica del naso"
+  },
+  {
+    "codice": 219,
+    "descrizione": "Altri interventi sul naso"
+  },
+  {
+    "codice": 2191,
+    "descrizione": "Lisi di aderenze del naso"
+  },
+  {
+    "codice": 2199,
+    "descrizione": "Altri interventi sul naso"
+  },
+  {
+    "codice": 22,
+    "descrizione": "Interventi sui seni nasali"
+  },
+  {
+    "codice": 220,
+    "descrizione": "Aspirazione e lavaggio dei seni nasali"
+  },
+  {
+    "codice": 2200,
+    "descrizione": "Aspirazione e lavaggio dei seni nasali, SAI"
+  },
+  {
+    "codice": 2201,
+    "descrizione": "Puntura dei seni nasali per aspirazione o lavaggio"
+  },
+  {
+    "codice": 2202,
+    "descrizione": "Aspirazione o lavaggio dei seni nasali attraverso la via naturale"
+  },
+  {
+    "codice": 221,
+    "descrizione": "Procedure diagnostiche sui seni nasali"
+  },
+  {
+    "codice": 2211,
+    "descrizione": "Biopsia [endoscopica] [agobiopsia] dei seni nasali"
+  },
+  {
+    "codice": 2212,
+    "descrizione": "Biopsia a cielo aperto dei seni nasali"
+  },
+  {
+    "codice": 2219,
+    "descrizione": "Altre procedure diagnostiche sui seni nasali"
+  },
+  {
+    "codice": 222,
+    "descrizione": "Antrotomia intranasale"
+  },
+  {
+    "codice": 223,
+    "descrizione": "Antrotomia mascellare esterna"
+  },
+  {
+    "codice": 2231,
+    "descrizione": "Antrotomia mascellare radicale"
+  },
+  {
+    "codice": 2239,
+    "descrizione": "Altra antrotomia mascellare esterna"
+  },
+  {
+    "codice": 224,
+    "descrizione": "Senotomia e senectomia frontale"
+  },
+  {
+    "codice": 2241,
+    "descrizione": "Senotomia frontale"
+  },
+  {
+    "codice": 2242,
+    "descrizione": "Senectomia frontale"
+  },
+  {
+    "codice": 225,
+    "descrizione": "Altra senotomia nasale"
+  },
+  {
+    "codice": 2250,
+    "descrizione": "Senotomia, SAI"
+  },
+  {
+    "codice": 2251,
+    "descrizione": "Etmoidotomia"
+  },
+  {
+    "codice": 2252,
+    "descrizione": "Sfenoidotomia"
+  },
+  {
+    "codice": 2253,
+    "descrizione": "Incisione dei seni multipli"
+  },
+  {
+    "codice": 226,
+    "descrizione": "Altra senectomia nasale"
+  },
+  {
+    "codice": 2260,
+    "descrizione": "Senectomia, SAI"
+  },
+  {
+    "codice": 2261,
+    "descrizione": "Asportazione di lesione del seno mascellare secondo Caldwell-Luc"
+  },
+  {
+    "codice": 2262,
+    "descrizione": "Asportazione di lesione del seno mascellare con altro approccio"
+  },
+  {
+    "codice": 2263,
+    "descrizione": "Etmoidectomia"
+  },
+  {
+    "codice": 2264,
+    "descrizione": "Sfenoidectomia"
+  },
+  {
+    "codice": 227,
+    "descrizione": "Riparazione del seno nasale"
+  },
+  {
+    "codice": 2271,
+    "descrizione": "Chiusura di fistola del seno nasale"
+  },
+  {
+    "codice": 2279,
+    "descrizione": "Altra riparazione del seno nasale"
+  },
+  {
+    "codice": 229,
+    "descrizione": "Altri interventi sui seni nasali"
+  },
+  {
+    "codice": 23,
+    "descrizione": "Estrazione riparazione di denti"
+  },
+  {
+    "codice": 230,
+    "descrizione": "Estrazione di dente con pinza"
+  },
+  {
+    "codice": 2301,
+    "descrizione": "Estrazione di dente deciduo"
+  },
+  {
+    "codice": 2309,
+    "descrizione": "Estrazione di altro dente"
+  },
+  {
+    "codice": 231,
+    "descrizione": "Estrazione chirurgica di dente"
+  },
+  {
+    "codice": 2311,
+    "descrizione": "Estrazione di radice residua"
+  },
+  {
+    "codice": 2319,
+    "descrizione": "Altra estrazione chirurgica di dente"
+  },
+  {
+    "codice": 232,
+    "descrizione": "Riparazione di dente mediante otturazione"
+  },
+  {
+    "codice": 233,
+    "descrizione": "Riparazione di dente mediante intarsio"
+  },
+  {
+    "codice": 234,
+    "descrizione": "Altra riparazione dentaria"
+  },
+  {
+    "codice": 2341,
+    "descrizione": "Applicazione di corona"
+  },
+  {
+    "codice": 2342,
+    "descrizione": "Inserzione di ponte fisso"
+  },
+  {
+    "codice": 2343,
+    "descrizione": "Inserzione di ponte rimovibile"
+  },
+  {
+    "codice": 2349,
+    "descrizione": "Altra riparazione dentaria"
+  },
+  {
+    "codice": 235,
+    "descrizione": "Impianto di dente"
+  },
+  {
+    "codice": 236,
+    "descrizione": "Impianto di protesi dentaria"
+  },
+  {
+    "codice": 237,
+    "descrizione": "Apicectomia e terapia canalare"
+  },
+  {
+    "codice": 2370,
+    "descrizione": "Terapia canalare, SAI"
+  },
+  {
+    "codice": 2371,
+    "descrizione": "Terapia canalare con irrigazione"
+  },
+  {
+    "codice": 2372,
+    "descrizione": "Terapia canalare con apicectomia"
+  },
+  {
+    "codice": 2373,
+    "descrizione": "Apicectomia"
+  },
+  {
+    "codice": 24,
+    "descrizione": "Altri interventi su denti, gengive e alveoli"
+  },
+  {
+    "codice": 240,
+    "descrizione": "Incisione di gengiva o di osso alveolare"
+  },
+  {
+    "codice": 241,
+    "descrizione": "Procedure diagnostiche su denti, gengive e alveoli"
+  },
+  {
+    "codice": 2411,
+    "descrizione": "Biopsia della gengiva"
+  },
+  {
+    "codice": 2412,
+    "descrizione": "Biopsia dell’alveolo"
+  },
+  {
+    "codice": 2419,
+    "descrizione": "Altri procedure sui denti, gengive e alveoli"
+  },
+  {
+    "codice": 242,
+    "descrizione": "Gengivoplastica"
+  },
+  {
+    "codice": 243,
+    "descrizione": "Altri interventi sulla gengiva"
+  },
+  {
+    "codice": 2431,
+    "descrizione": "Asportazione di lesione o tessuto della gengiva"
+  },
+  {
+    "codice": 2432,
+    "descrizione": "Sutura di lacerazione della gengiva"
+  },
+  {
+    "codice": 2439,
+    "descrizione": "Altri interventi sulla gengiva"
+  },
+  {
+    "codice": 244,
+    "descrizione": "Asportazione di lesione dentaria della mandibola"
+  },
+  {
+    "codice": 245,
+    "descrizione": "Alveoloplastica"
+  },
+  {
+    "codice": 246,
+    "descrizione": "Esposizione chirurgica di dente"
+  },
+  {
+    "codice": 247,
+    "descrizione": "Applicazione di sussidio ortodontico"
+  },
+  {
+    "codice": 248,
+    "descrizione": "Altro intervento ortodontico"
+  },
+  {
+    "codice": 249,
+    "descrizione": "Altri interventi sui denti"
+  },
+  {
+    "codice": 2491,
+    "descrizione": "Estensione o approfondimento del solco linguale o labiale"
+  },
+  {
+    "codice": 2499,
+    "descrizione": "Altri interventi sui denti"
+  },
+  {
+    "codice": 25,
+    "descrizione": "Interventi sulla lingua"
+  },
+  {
+    "codice": 250,
+    "descrizione": "Procedure diagnostiche sulla lingua"
+  },
+  {
+    "codice": 2501,
+    "descrizione": "Biopsia [agobiopsia] della lingua"
+  },
+  {
+    "codice": 2502,
+    "descrizione": "Biopsia a cielo aperto della lingua"
+  },
+  {
+    "codice": 2509,
+    "descrizione": "Altra procedura diagnostica sulla lingua"
+  },
+  {
+    "codice": 251,
+    "descrizione": "Asportazione o demolizione di lesione o tessuto della lingua"
+  }
+  ]
